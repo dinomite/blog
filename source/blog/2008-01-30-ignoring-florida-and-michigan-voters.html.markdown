@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Ignoring Florida and Michigan Voters
 mt_id: 179

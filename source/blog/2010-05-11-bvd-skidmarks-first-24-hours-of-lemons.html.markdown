@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: BVD Skidmark's First 24 Hours of LeMons
 mt_id: 257

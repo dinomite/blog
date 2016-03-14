@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: What Are You Worth to Facebook?
 mt_id: 156

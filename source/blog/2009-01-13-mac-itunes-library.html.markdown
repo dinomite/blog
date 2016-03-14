@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Mac::iTunes::Library
 mt_id: 231

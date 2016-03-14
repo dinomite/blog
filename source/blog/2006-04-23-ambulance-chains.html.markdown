@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Ambulance chains
 mt_id: 61

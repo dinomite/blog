@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Day 2: Austria"
 date: 2007-07-31
 comments: true
-categories: []
+tags: []
 ---
 On our second day in Europe, the first destination was [Neuschwanstein](http://en.wikipedia.org/wiki/Neuschwanstein), the castle which served as the inspiration for [Sleeping Beauty Castle](http://en.wikipedia.org/wiki/Sleeping_Beauty_Castle) in Disneyland.  First, though, we had to get some breakfast.  Upon greeting the inkeeper, we were told of the breakfast options, "Hungry?  Ja, you will have muesli."  In addition to muesli atop some very good yogurt there was a spread of meats and cheeses that would become standard over the next few days.
 

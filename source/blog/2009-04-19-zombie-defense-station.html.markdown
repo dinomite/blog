@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Zombie Defense Station
 mt_id: 245

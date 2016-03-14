@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: The Bible Does Math
 mt_id: 86

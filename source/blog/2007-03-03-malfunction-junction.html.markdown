@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Malfunction Junction
 mt_id: 99

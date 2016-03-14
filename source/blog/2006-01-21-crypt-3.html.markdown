@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "crypt(3)"
 date: 2006-01-21
 comments: true
-categories: [Linux]
+tags: [Linux]
 ---
 Anyone who has used Unix or a derivative for long enough should know of crypt(3), the basic Unix hashing function.  Back In The Day, unices used crypt(3) for hashing passwords and It Was Good; computers were once slow enough that DES was an acceptable encryption algorithm even with a limit of 8 characters.  Since about the turn of the century (the latest one), any Unix worth it's salt (heh, crypto pun) offers other options for password encryption, most often MD5.  Furthermore, everything I've run into, until today, used MD5 passwords by default, though Debian Potato still offered to use crypt(3) and non-shadowed passwords (knowing that came in useful in a cracking competition my freshman year).
 

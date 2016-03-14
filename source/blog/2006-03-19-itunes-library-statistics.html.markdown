@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: iTunes Library Statistics
 mt_id: 52

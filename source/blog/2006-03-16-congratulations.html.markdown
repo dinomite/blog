@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Congratulations!
 mt_id: 54

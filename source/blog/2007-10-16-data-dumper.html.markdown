@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Data::Dumper
 mt_id: 155

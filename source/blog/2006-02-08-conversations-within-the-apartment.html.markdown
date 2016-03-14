@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Conversations within the apartment
 mt_id: 43

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Dictatorial Leadership is Sometimes the Best
 mt_id: 173

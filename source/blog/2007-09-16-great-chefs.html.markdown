@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Great Chefs
 mt_id: 146

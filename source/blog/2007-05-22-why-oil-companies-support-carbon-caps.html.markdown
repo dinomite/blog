@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Why Oil Companies Support Carbon Caps
 mt_id: 114

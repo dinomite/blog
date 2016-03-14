@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: CHM to PDF conversion
 mt_id: 100

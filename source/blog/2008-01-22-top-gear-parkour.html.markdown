@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Top Gear Parkour
 mt_id: 175

@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "iTunes -> MP3dir"
 date: 2006-01-14
 comments: true
-categories: [Programming]
+tags: [Programming]
 ---
 Bery Rinaldo made a <a href="http://homepage.mac.com/beryrinaldo/AudioTron/Export_Playlist_to_M3U/"> script to export iTunes playlists as M3Us</a>, which is great and the first thing you need in order to make use of my script.  So, grab that off of his web page and install it into `/Users/<username>/Library/iTunes/Scripts` (create that directory if you don't already have it).
 

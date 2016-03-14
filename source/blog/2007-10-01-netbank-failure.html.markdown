@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: NetBank Failure
 mt_id: 152

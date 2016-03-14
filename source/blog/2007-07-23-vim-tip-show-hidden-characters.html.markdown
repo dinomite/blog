@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Vim Tip: Show Hidden Characters"
 mt_id: 129

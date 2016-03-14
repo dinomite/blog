@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Driving Across the United States day 5
 mt_id: 200

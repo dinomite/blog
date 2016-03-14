@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Changing the Physical Interface for a VMware Bridged Interface
 mt_id: 143

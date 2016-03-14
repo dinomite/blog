@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Drum Major Institute on the 2008 State of The Union
 mt_id: 180

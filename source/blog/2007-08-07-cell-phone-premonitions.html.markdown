@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Cell Phone Premonitions
 mt_id: 136

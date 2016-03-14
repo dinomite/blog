@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: To-do lists and goals
 mt_id: 60

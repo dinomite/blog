@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Gas v. Diesel and Energy Content
 mt_id: 209

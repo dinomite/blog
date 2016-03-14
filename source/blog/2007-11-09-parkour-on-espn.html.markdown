@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Parkour on ESPN
 mt_id: 160

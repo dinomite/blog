@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "SHDH 36 Lightning Talk: Perl's Moose Object Framework"
 mt_id: 252

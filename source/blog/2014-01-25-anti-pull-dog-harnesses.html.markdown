@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Anti-pull dog harnesses"
 date: 2014-01-25
 comments: true
-categories:
+tags:
 ---
 [I like dogs](https://www.youtube.com/watch?v=zH64dlgyydM) and recently got a beaglish one of my own from the [Lost Dog Foundation](http://www.lostdogrescue.org/).  While wonderful, he has the affliction of walking excitement common to hunting hounds—appropriate to his name, Scout wants to lead the way and suss out any squirrels to be found.  At only 25 pounds, he won't drag you down the street, but the constant tugging on the leash is tiring.  I've tried a number of collars & harnesses to try to combat this problem, and what follows are my opinions on them.
 

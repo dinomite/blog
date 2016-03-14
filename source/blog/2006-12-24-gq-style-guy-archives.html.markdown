@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: GQ Style Guy archives
 mt_id: 76

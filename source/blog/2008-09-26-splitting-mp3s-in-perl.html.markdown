@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Splitting MP3s in Perl
 mt_id: 225

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Tough Mudder Norcal 2010
 mt_id: 261

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Bad Input Handling on The Web
 mt_id: 147

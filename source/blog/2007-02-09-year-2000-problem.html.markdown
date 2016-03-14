@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Year 2000 Problem
 mt_id: 90

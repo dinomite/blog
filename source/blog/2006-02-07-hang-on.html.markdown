@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Hang on, Stevens
 mt_id: 44

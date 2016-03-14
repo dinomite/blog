@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Subversion diff with vimdiff
 mt_id: 214

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Dulce de Leche Ice Cream
 mt_id: 154

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Perceptions Are Not Reality
 mt_id: 151

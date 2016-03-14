@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Bad User Interface
 mt_id: 127

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Better uses for your Sunday mornings
 mt_id: 98

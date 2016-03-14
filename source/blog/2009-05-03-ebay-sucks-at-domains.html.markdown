@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: eBay Sucks at Domains
 mt_id: 246

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Connecting to Oracle Without a Password on Windows
 mt_id: 166

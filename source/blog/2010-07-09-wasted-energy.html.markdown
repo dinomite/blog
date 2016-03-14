@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Wasted Energy
 mt_id: 259

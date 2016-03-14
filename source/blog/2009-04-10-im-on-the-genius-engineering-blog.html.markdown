@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: I'm on the Genius Engineering blog
 mt_id: 243

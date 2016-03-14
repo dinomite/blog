@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Interfacial Fracture of Oreo Cookie Filling
 mt_id: 134

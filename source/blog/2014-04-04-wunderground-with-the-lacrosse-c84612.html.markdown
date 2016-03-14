@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Wunderground with the LaCrosse C84612"
 date: 2014-04-04
 comments: true
-categories: 
+tags: 
 ---
 
 I got a [La Crosse C84612](http://www.lacrossetechnology.com/c84612/) weather station as a gift.  Costco sold this model sometime last year, though now the closest thing they have is a quite expensive [Oregon Scientific unit](http://www.costco.com/Oregon-Scientific-WMR300-Ultra-Precision-Professional-Weather-System.product.100086588.html).

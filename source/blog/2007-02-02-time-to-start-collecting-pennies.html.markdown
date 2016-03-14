@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Time to Start Collecting Pennies
 mt_id: 87

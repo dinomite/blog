@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Keyboard Shortcuts With a Non-Apple Keyboard in Mac OS X
 mt_id: 186

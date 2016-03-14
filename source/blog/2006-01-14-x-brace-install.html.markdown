@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "X-Brace install"
 date: 2006-01-14
 comments: true
-categories: [Cars]
+tags: [Cars]
 ---
 Installing an X brace is easy, cheap as far as mods go and provides noticeable benefit to your E36's handling. I got my X Brace from Circle BMW in New Jersey. You can mail order from them, as I did, or get it from your local dealer. Circle BMW and Pacific BMW are usually the cheapest prices around.
 

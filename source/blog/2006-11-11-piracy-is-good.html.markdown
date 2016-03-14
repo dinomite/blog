@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Piracy is good?
 mt_id: 71

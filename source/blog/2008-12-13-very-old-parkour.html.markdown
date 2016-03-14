@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Very old Parkour
 mt_id: 228

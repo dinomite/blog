@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Old Techno Album Reviews: Dune - Expedicion"
 mt_id: 224

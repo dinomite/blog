@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Crontab Files
 mt_id: 239

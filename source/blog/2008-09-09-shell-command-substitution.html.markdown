@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Shell Command Substitution
 mt_id: 221

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Inventions
 mt_id: 206

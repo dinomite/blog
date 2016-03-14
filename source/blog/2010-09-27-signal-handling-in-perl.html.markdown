@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Signal Handling in Perl
 mt_id: 256

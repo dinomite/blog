@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "bash: /bin/tar: Argument list too long"
 mt_id: 91

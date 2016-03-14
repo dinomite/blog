@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Screen Presets
 mt_id: 247

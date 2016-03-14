@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Arctic weather
 mt_id: 49

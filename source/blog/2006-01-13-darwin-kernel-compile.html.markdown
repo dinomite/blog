@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Darwin Kernel Compile"
 date: 2006-01-13
 comments: true
-categories: [Linux]
+tags: [Linux]
 ---
 <h1>Compiling the Darwin Kernel</h1>
 

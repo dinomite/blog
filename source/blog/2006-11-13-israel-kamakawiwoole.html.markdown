@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Israel Kamakawiwo'ole
 mt_id: 70

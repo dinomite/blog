@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Richard Dawkins on Atheism at TED Talks
 mt_id: 193

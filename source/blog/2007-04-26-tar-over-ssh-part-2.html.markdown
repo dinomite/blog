@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: tar over SSH (part 2)
 mt_id: 112

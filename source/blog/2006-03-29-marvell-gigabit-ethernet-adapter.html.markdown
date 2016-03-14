@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Marvell Gigabit ethernet adapter
 mt_id: 58

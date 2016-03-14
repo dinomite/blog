@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Filesystems"
 date: 2006-01-13
 comments: true
-categories: [Linux]
+tags: [Linux]
 ---
 <p>This is the outline to a seminar that I gave at <a href="http://www.csh.rit.edu">CSH</a> on filesystems.  The impetus was simply my lack of knowledge for how filesystems work and the misconceptions (particularly about journaling) that most people have.  Synopsis: use ReiserFS, but don't believe the <a href="http://funroll-loops.org">Gentoo kiddies</a> who say you'll get a massive performance boost; you wont.  ReiserFS is slightly faster than EXT3, a little bit more space efficient and gets beyond the 2GB filesize limit.  I run EXT2 because  it's a touche faster than all the journaling filesystems and I know that my systems aren't going to go down uncleanly.  Most people, however, aren't as meticulous as I am so a Journaling filesystem is a better fit.
 

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: United States Federal Lands
 mt_id: 219

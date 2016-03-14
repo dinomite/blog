@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Skittles Vodka
 mt_id: 249

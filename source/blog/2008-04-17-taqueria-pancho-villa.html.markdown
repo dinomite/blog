@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Taqueria Pancho Villa
 mt_id: 202

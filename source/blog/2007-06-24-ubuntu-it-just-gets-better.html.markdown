@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Ubuntu: It Just Gets Better"
 mt_id: 121

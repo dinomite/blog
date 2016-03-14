@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Rick Ross' Financial Success
 mt_id: 220

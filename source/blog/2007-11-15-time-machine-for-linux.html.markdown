@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Time Machine for Linux
 mt_id: 159

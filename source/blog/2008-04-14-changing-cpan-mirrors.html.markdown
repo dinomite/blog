@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Changing CPAN Mirrors
 mt_id: 201

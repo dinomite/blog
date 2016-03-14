@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Apache2 ProxyPass
 mt_id: 123

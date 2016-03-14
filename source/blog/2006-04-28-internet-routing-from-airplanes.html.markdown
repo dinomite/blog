@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Internet routing from airplanes
 mt_id: 65

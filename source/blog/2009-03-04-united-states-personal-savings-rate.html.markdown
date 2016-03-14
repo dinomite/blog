@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: United States Personal Savings Rate
 mt_id: 237

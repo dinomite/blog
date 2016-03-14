@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: mdadm Isn't Someone You Want to Hear From
 mt_id: 165

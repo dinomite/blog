@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Programming is Impressive
 mt_id: 161

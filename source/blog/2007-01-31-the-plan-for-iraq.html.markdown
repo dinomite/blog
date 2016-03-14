@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: The Plan for Iraq
 mt_id: 88

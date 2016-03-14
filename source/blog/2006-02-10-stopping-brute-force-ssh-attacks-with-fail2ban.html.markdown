@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Stopping Brute Force SSH Attacks with fail2ban
 mt_id: 40

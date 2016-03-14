@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Hell Bank Notes"
 date: 2006-01-14
 comments: true
-categories: []
+tags: []
 ---
 So, apparently in Chinese culture, people send gifts to their departed love ones to ensure that their spirits live on in comfort.  One of the things that are usually sent are [Hell Bank Notes](http://en.wikipedia.org/wiki/Hell_Bank_Notes), money for them to spend in the afterworld.  In other cultures, such notes are used to bribe the King of Hell, also known as the Jade Emperor or Grandpa Heaven, for the earlier release of the held spirit.  My favorite part of this Wikipedia article is the discussion of Hell Bank Note values:
 

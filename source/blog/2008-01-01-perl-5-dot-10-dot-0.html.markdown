@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Perl 5.10.0
 mt_id: 170

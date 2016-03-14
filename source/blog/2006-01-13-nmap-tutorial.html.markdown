@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Nmap Tutorial"
 date: 2006-01-13
 comments: true
-categories: [Networking]
+tags: [Networking]
 ---
 <p>Port scanning is a method of finding listening services (open ports) on a
 computer.  In laymen's terms, port scanning is akin to checking if doors and

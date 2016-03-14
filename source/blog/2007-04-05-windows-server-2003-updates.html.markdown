@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Windows Server 2003 Updates
 mt_id: 101

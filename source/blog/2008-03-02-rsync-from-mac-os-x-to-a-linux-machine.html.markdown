@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Rsync from Mac OS X to a Linux Machine
 mt_id: 190

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: UFC Advertisement on FoodTV
 mt_id: 75

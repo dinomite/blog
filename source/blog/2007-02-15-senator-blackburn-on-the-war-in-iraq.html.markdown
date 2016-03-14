@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Senator Blackburn on The War in Iraq
 mt_id: 92

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Wikipedia recent changes and watchlist
 mt_id: 106

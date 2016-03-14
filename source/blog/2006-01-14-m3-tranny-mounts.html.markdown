@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "M3 Tranny Mounts"
 date: 2006-01-14
 comments: true
-categories: [Cars]
+tags: [Cars]
 ---
 One of the well known problems with E36s is that the weak transmission mounts allow the transmission to shift slightly under load. When this happens, it becomes very easy to miss-shift and accidentally go into a lower gear then one intended. Doing so can cause a mechanical over-rev, destroying the engine. To rectify this problem, I bought UUC's Tranny Mount Enforcers.
 

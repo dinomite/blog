@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Chevrolet HHR Panel
 mt_id: 133

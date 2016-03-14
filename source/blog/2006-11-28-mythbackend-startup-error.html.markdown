@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: mythbackend startup error
 mt_id: 78

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: E36 M3 Fuel Mileage
 mt_id: 266

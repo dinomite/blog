@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Motorola Razr Shortcuts and Bluetooth
 mt_id: 93

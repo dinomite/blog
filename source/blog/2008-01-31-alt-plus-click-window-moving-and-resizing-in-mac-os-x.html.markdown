@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Alt+Click Window Moving and Resizing in Mac OS X
 mt_id: 178

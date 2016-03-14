@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Trivial Internet Payments
 mt_id: 45

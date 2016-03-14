@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Pandora Internet Radio
 mt_id: 95

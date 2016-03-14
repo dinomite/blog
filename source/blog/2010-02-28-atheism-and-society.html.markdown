@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Atheism and Society
 mt_id: 254

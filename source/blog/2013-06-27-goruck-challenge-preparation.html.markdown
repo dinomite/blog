@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "GORUCK Challenge"
 date: 2013-06-27
 comments: true
-categories: 
+tags: 
 ---
 [{% img https://farm4.staticflickr.com/3713/9157378869_d05b4078ef_z.jpg %}](https://www.flickr.com/photos/dinomite/9157378869/)
 Photo credit: [Troy Angrignon](http://www.facebook.com/troyangrignon)

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Parallel Processing in PHP
 mt_id: 267

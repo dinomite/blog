@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: A Good Day for Rum
 mt_id: 226

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Peanut Butter Ice Cream
 mt_id: 124

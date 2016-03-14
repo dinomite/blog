@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Computers"
 date: 2006-01-13
 comments: true
-categories: [Computers]
+tags: [Computers]
 ---
 **Tutorials**<br />
 Information that I have written concerning computers and programming.

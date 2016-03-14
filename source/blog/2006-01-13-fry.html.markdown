@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Fry"
 date: 2006-01-13
 comments: true
-categories: [Uncategorized]
+tags: [Uncategorized]
 ---
 Just about done configuring wordpress.  Here's a picture of Fry:
 

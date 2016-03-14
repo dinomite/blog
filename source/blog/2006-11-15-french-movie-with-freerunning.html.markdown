@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: French movie with freerunning
 mt_id: 69

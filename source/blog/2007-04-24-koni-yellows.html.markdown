@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Koni Yellows
 mt_id: 109

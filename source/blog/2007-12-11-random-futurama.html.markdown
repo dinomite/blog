@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Random Futurama
 mt_id: 168

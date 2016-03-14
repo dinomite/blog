@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Voting Systems
 mt_id: 227

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Replacing an E36 Window Motor
 mt_id: 278

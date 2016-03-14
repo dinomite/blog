@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Custom Weather Radar Images
 mt_id: 167

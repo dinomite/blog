@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Word Frequency in the Vice Presidential Debate
 mt_id: 223

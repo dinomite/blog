@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Perl and Dubstep
 mt_id: 277

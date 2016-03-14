@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Setting IzPack's Default Target Directory
 mt_id: 111

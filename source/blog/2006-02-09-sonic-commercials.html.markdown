@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Sonic Commercials
 mt_id: 42

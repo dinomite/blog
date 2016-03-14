@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: perl -MO=Lint
 mt_id: 97

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Regular Expressions in Java
 mt_id: 176

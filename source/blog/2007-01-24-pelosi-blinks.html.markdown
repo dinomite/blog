@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Pelosi Blinks
 mt_id: 80

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Building an Olympic Lifting Platform
 mt_id: 270

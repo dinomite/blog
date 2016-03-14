@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: What's so good about Amazon?
 mt_id: 230

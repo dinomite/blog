@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Bush's New Health Care Plan
 mt_id: 81

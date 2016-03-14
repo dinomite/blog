@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Popular IM Networks
 mt_id: 216

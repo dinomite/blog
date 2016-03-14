@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: DIY R-Strap
 mt_id: 240

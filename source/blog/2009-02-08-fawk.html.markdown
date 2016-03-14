@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: fawk
 mt_id: 236

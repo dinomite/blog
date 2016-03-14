@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Creating Encrypted Backups with GPG
 mt_id: 117

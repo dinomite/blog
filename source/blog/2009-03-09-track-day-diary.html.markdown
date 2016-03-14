@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Track Day Diary
 mt_id: 241

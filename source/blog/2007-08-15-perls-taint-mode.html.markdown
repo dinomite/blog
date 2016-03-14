@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Perl's Taint Mode
 mt_id: 132

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Perl, Python and Ruby
 mt_id: 163

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Introduction to Genres of Electronic Music through Remixes
 mt_id: 108

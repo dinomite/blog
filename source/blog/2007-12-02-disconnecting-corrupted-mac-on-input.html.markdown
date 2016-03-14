@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Disconnecting: Corrupted MAC on input."
 mt_id: 162

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Logical Fallacy of the Day: cum hoc ergo propter hoc"
 mt_id: 64

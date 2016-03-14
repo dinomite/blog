@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Crapcan Racing Tips
 mt_id: 265

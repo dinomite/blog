@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Wikipedia
 mt_id: 18

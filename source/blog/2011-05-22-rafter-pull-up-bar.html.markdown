@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Rafter Pull-Up Bar
 mt_id: 275

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Code Golf: Grid Computing"
 mt_id: 171

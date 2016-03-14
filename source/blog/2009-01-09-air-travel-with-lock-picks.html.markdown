@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Air Travel with Lock Picks
 mt_id: 232

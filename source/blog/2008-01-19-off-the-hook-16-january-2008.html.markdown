@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Off The Hook - 16 January 2008
 mt_id: 172

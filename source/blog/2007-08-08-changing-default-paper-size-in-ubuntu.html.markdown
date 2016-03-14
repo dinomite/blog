@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Changing default paper size in Ubuntu
 mt_id: 135

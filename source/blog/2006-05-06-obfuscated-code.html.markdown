@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Obfuscated code
 mt_id: 67

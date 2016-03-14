@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: 4 a.m.
 mt_id: 137

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: vBulletin login with WWW::Mechanize
 mt_id: 57

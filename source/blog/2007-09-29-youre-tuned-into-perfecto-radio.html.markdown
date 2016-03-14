@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: You're tuned into Perfecto Radio, New York City, Miami, Los Angeles
 mt_id: 148

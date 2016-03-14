@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Using The Shell Right
 mt_id: 251

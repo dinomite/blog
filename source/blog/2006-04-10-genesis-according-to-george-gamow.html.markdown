@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Genesis According to George Gamow
 mt_id: 55

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Corn Runs the World
 mt_id: 79

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Keeping Your Home Directory in Subversion
 mt_id: 211

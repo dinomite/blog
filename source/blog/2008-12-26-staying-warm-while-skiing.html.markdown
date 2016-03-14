@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Staying warm while skiing
 mt_id: 233

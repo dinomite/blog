@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Crumpler Haven With Canon 40D"
 date: 2012-08-12
 comments: true
-categories: 
+tags: 
 ---
 {% img right http://dinomite.smugmug.com/Other/Gear/i-9ZzG8wn/0/L/MG0232-L.jpg 283 600 GORUCK GR1 with Crumpler Haven inside %}
 

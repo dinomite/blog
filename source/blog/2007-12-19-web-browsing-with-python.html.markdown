@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Web Browsing With Python
 mt_id: 169

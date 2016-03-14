@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: RIT Winter Sports
 mt_id: 181

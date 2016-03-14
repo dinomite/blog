@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Recipe for Good Chile"
 date: 2006-01-15
 comments: true
-categories: []
+tags: []
 ---
 * 1 lb. ground beef
 * 1 beer (Labatt Blue was the stoutest thing we had on hand)

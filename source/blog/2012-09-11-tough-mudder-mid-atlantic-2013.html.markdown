@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Tough Mudder Mid-Atlantic 2012"
 date: 2012-09-11
 comments: true
-categories: 
+tags: 
 ---
 After not doing Tough Mudder [since 2010](http://dinomite.net/blog/2010/tough-mudder-norcal-2010/),
 I signed up for the Mid-Atlantic event this year.  Here's my advice for folks

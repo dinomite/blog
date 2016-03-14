@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: No-Tech Hacking
 mt_id: 217

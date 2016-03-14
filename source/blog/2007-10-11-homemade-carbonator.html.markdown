@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Homemade Carbonator
 mt_id: 150

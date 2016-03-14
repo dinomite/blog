@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Random number generators
 mt_id: 66

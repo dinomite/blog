@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Internet Birthday
 mt_id: 250

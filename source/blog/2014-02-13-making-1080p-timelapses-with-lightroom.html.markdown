@@ -1,9 +1,8 @@
 ---
-layout: post
 title: "Making 1080p Timelapses with Lightroom"
 date: 2014-02-13
 comments: true
-categories: 
+tags: 
 ---
 There are [a bunch](http://photographyforrealestate.net/2012/09/09/how-to-use-lightroom-4-to-create-a-time-lapse-video/) of [tutorials](http://lightroom-blog.com/2013/09/17/timelapse-again-in-lightroom-5-2/) for creating time-lapse videos in Lightroom.  All of the ones I found only provide a preset for making 1280x720 (720p) videos.  I took one of those presets and updated it to be make a <a href="/assets/JPEG 82 (1080p).lrtemplate">1920x1080 (1080p) video from stills</a>.
 

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: What happened here?
 mt_id: 56

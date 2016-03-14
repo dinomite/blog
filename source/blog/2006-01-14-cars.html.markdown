@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Cars"
 date: 2006-01-14
 comments: true
-categories: [Cars]
+tags: [Cars]
 ---
 Aside from computers, working on and driving cars is my favorite pastime.  I have a [1997 BMW M3](http://gallery.dinomite.net/gallery/v/Cars/BMW_M3/) which I do all of the maintenance work for and drive in BMW CCA track events, my preferred summer activity.
 

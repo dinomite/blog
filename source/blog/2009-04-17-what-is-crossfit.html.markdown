@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: What is CrossFit?
 mt_id: 244

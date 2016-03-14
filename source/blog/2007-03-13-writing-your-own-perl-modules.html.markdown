@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Writing your own Perl modules
 mt_id: 104

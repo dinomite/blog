@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Who Uses Backslashes?
 mt_id: 85

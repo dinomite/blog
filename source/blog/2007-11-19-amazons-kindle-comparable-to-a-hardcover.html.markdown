@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Amazon's Kindle Comparable to a Hardcover?
 mt_id: 157

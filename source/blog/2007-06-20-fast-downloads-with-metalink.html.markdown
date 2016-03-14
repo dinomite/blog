@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Fast Downloads with Metalink
 mt_id: 118

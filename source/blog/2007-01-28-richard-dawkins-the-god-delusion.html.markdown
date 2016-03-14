@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Richard Dawkins - The God Delusion
 mt_id: 83

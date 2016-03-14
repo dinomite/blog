@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Smart Bookmarks
 mt_id: 194

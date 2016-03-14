@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Formula 1 car playing God Save the Queen
 mt_id: 77

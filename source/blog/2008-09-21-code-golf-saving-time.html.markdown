@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Code Golf: Saving Time"
 mt_id: 222

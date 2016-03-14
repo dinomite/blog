@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: MD5 Digests in Java
 mt_id: 102

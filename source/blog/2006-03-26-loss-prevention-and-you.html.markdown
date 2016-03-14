@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Loss Prevention and You
 mt_id: 59

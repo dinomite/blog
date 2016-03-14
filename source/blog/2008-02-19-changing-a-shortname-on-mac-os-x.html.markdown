@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Changing a Shortname on Mac OS X
 mt_id: 192

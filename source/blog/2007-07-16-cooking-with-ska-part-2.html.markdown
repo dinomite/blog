@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Cooking With Ska Part 2
 mt_id: 130

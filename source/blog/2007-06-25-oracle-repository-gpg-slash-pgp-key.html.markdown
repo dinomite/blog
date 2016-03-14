@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Oracle Repository GPG/PGP Key
 mt_id: 122

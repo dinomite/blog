@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Profiling Perl, part 1
 mt_id: 139

@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Pictures from Breckenridge"
 date: 2006-01-20
 comments: true
-categories: []
+tags: []
 ---
 I went skiing in Breckenridge, Colorado over winter break and while there I climbed above all of the lifts to the summit of Peak 8, 13,000 feet up.  I just added the <a href="http://gallery.dinomite.net/gallery/v/Skiing/Breckenridge+2006">pictures</a> to my gallery.  Here's a picture of the Baldy (that may just be the local name), though it's hard to convey just how high up the peaks are.
 <a href="http://gallery.dinomite.net/gallery/v/Skiing/Breckenridge+2006/IMG_0095.JPG.html"><img src='http://dinomite.net/wp-content/images/IMG_0095.JPG' alt='Mt. Baldy' /></a>

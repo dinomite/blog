@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Watching iPad Applications
 mt_id: 271

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: First Impressions from Campaign Websites
 mt_id: 174

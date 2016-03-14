@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Malted Milk Ice Cream
 mt_id: 120

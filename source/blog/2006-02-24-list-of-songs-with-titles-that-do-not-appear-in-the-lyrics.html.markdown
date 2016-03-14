@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: List of songs with titles that do not appear in the lyrics
 mt_id: 48

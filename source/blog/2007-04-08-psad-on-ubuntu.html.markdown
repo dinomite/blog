@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: psad on Ubuntu
 mt_id: 105

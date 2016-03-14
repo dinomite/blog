@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Installing Mechwarrior 2 in DOSBox Under Mac OS X
 mt_id: 212

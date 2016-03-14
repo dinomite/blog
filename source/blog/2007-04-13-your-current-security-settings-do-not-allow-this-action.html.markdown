@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Your current security settings do not allow this action
 mt_id: 107

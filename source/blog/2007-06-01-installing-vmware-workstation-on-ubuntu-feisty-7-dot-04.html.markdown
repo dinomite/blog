@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Installing VMware Workstation on Ubuntu Feisty (7.04)
 mt_id: 115

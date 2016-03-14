@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Caps Lock to Control on Ubuntu
 mt_id: 119

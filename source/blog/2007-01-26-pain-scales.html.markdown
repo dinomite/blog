@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Pain Scales
 mt_id: 82

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: here-documents in Perl
 mt_id: 210

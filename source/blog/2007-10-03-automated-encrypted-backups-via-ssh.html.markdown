@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Automated Encrypted Backups via SSH
 mt_id: 149

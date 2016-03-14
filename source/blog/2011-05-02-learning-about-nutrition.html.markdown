@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Learning About Nutrition
 mt_id: 273

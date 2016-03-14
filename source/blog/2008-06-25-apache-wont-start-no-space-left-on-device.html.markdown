@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Apache Won't Start: No space left on device"
 mt_id: 213

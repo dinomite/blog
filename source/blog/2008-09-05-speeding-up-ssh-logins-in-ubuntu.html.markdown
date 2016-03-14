@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Speeding up SSH Logins in Ubuntu
 mt_id: 218

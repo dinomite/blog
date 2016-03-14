@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Bruce Schneier plugin for Hudson
 mt_id: 248

@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: SSH Tunnels for Quick, Secure Net Access
 mt_id: 144

@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "new-post"
 date: 2006-02-16
 comments: true
-categories: [Politics]
+tags: [Politics]
 ---
 I'm not really a fan of Jay Leno, but this quote about the whole Cheney shooting incident was very, very good; kudos to his writers.
 

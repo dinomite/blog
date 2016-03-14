@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Senator Leghorn
 mt_id: 73

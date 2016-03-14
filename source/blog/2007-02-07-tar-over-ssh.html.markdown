@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: tar Over SSH
 mt_id: 89

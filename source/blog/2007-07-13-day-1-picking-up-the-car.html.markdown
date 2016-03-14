@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: "Day 1: Picking Up the Car"
 mt_id: 125

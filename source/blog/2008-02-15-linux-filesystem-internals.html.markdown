@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Linux Filesystem Internals
 mt_id: 188

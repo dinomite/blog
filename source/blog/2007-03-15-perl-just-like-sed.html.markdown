@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Perl Just Like sed
 mt_id: 103

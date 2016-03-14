@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Python Switch Statements - part 2
 mt_id: 182

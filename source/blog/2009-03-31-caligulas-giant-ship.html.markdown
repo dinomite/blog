@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Caligula's Giant Ship
 mt_id: 238

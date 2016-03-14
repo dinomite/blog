@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: DEFCON 16 EFF Panel
 mt_id: 215

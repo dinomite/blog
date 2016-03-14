@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Tab History Add-on for Firefox
 mt_id: 158

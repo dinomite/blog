@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: del.icio.us spying
 mt_id: 63

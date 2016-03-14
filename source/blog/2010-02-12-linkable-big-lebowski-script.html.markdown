@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Linkable Big Lebowski Script
 mt_id: 253

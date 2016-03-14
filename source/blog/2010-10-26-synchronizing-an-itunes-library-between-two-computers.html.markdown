@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Synchronizing an iTunes Library Between Two Computers
 mt_id: 262

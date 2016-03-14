@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Folding in vim
 mt_id: 140

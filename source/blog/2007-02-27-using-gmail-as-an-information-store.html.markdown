@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Using Gmail as an information store
 mt_id: 94

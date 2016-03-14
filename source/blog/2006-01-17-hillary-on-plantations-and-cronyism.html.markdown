@@ -1,10 +1,9 @@
 ---
-layout: post
 comments: true
 title: "Hillary on Plantations and Cronyism"
 date: 2006-01-17
 comments: true
-categories: [Politics]
+tags: [Politics]
 ---
 Yesterday at a Martin Luther King, Jr. day event, Hillary Clinton mades some egregious remarks, only one of which has drawn attention of the media.  Had she refrained from [comparing the current political state to a plantation](http://www.cnn.com/2006/POLITICS/01/17/clinton.plantation/), the more politically important statement that she made would have come through loud and clear.  I say that her other major point was more important because it really sums up what many people think about the current administration, but few with a voice have had the courage to say,
 

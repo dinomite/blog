@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Tokyo Ska Paradise Orchestra
 mt_id: 126

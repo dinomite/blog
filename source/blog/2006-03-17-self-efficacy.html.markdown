@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Self-efficacy
 mt_id: 53

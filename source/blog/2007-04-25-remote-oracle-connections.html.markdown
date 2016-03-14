@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: Remote Oracle Connections
 mt_id: 113

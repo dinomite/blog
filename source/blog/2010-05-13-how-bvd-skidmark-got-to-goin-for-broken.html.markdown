@@ -1,5 +1,4 @@
 --- 
-layout: post
 comments: true
 title: How BVD Skidmark Got to Goin' For Broken
 mt_id: 258
