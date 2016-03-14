@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Skittles Vodka
 mt_id: 249
-date: 2009-09-28 23:13:58 -07:00
+date: 2009-09-28
 ---
 When walking through Ikea one day, I spotted the perfect bottles in which to make Skittles vodka.  Starting with these, here is the process for making this infusion.
 <a href="http://www.flickr.com/photos/dinomite/3964554487/" class="tt-flickr tt-flickr-Small" title="Skittles vodka materials"><img class="alignright" src="http://farm3.static.flickr.com/2465/3964554487_50b848e127_m.jpg" alt="Skittles vodka materials" width="240" height="122" /></a> 

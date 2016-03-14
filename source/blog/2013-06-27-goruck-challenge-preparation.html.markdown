@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GORUCK Challenge"
-date: 2013-06-27 20:27
+date: 2013-06-27
 comments: true
 categories: 
 ---

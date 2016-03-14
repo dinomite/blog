@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: mythbackend startup error
 mt_id: 78
-date: 2006-11-28 14:50:48 -08:00
+date: 2006-11-28
 ---
 My MythTV installation hasn't been working for a couple of weeks and I hadn't gotten around to fixing it until today; shows you how much TV matters to me when I'm busy.  It was a really easy error to fix - simply a crashed table which was quick to diagnose and fix even though I hadn't ever encountered anything of the sort before.  For Google-searchers, the error from mythbackend was as follows:
 

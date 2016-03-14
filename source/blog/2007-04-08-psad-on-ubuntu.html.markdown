@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: psad on Ubuntu
 mt_id: 105
-date: 2007-04-08 18:33:11 -07:00
+date: 2007-04-08
 ---
 `psad` (PortScan Attack Detector) is a useful tool for detecting portscans against a system and, optionally, blocking the offending host.  To use `psad` you configure your firewall to drop and log all packets that are not specifically allowed, i.e., those that are handled by services on the machine.  The configuration for `psad` can cause a little bit of grief because it depends on some quite particular firewall setup and, if you don't want massive logfiles, some editing of `syslog.conf`.  To begin with, you'll need to install `psad` which can be done via apt:
 

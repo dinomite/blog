@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: A Good Day for Rum
 mt_id: 226
-date: 2008-10-06 22:49:54 -07:00
+date: 2008-10-06
 ---
 The passage of the [Emergency Economic Stabilization Act of 2008](http://en.wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008) ([H.R. 1424](http://en.wikipedia.org/wiki/H.R._1424)) was a good thing for rum lovers:
 

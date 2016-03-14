@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Crapcan Racing Tips
 mt_id: 265
-date: 2010-12-16 03:48:44 -08:00
+date: 2010-12-16
 ---
 <a href="http://mpierce.org/gallery/v/motorsport/2010-12-lemons/2010-12-lemons-00012.jpg.html"><img alt="The Jaywatch car" src="http://mpierce.org/gallery/d/4339-2/2010-12-lemons-00012.jpg" width="400" height="267" class="mt-image-left" /></a>
 [Drivers' schools](http://www.nccbmwcca.org/content.php?120-driving-school) are incredibly fun and the best way to improve your driving prowess.  [Track days](http://www.nasaproracing.com/hpde/) can be incredibly useful for honing your skill once you have been on track enough to catch your own mistakes.  While incredibly useful tools for learning to drive fast, neither can touch the [24 Hours of LeMons](http://www.24hoursoflemons.com/) for having fun with motorsports.  I have previously written about [the basics of getting to a LeMons race](http://dinomite.net/2010/how-bvd-skidmark-got-to-goin-for-broken/), and what happened at [our first race](http://dinomite.net/2010/bvd-skidmarks-first-24-hours-of-lemons/).  The team just finished another race, the 2010 Arse-Freeze-Apalooza at Buttonwillow this past weekend, where we finished 68th of 173.  Better than half made us happy, because the head gasket blew with an hour and a half left in the race.

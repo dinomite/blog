@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "at(1) on Mac OS X"
-date: 2014-02-03 12:18:34 -0500
+date: 2014-02-03
 comments: true
 categories: 
 ---

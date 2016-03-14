@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Cars"
-date: 2006-01-14 23:48
+date: 2006-01-14
 comments: true
 categories: [Cars]
 ---

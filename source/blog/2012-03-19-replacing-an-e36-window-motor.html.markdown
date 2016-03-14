@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Replacing an E36 Window Motor
 mt_id: 278
-date: 2012-03-19 21:25:34 -07:00
+date: 2012-03-19
 ---
 There are enough BMW E36 cars out there owned by enthusiasts that nearly any problem you have there is a do-it-yourself tutorial for fixing on the internet. Dead window motors is no different--Doug Vetter has [a very detailed description](http://www.dvatp.com/bmw/diy/power_window/) of how to replace the window motor & regulator on the E36.  Seriously, if you're going to to do this fix (or are wondering whether you should), go check out Doug's page.  The only amendment I'll make to his description is about replacing the window motor only, without removing the regulator.  In short, doing so is possible, but a (cheap!) special tool is required.
 

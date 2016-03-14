@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Parallel Processing in PHP
 mt_id: 267
-date: 2011-05-17 08:30:00 -07:00
+date: 2011-05-17
 ---
 Though not a first choice for long-running processes, many web shops end up writing daemons or batch processing scripts in PHP.  As business grows, the need to process records more quickly to deal with traffic becomes an issue.  Often times, the processing is limited by something other than raw processing power--network latency and database query times being the usual slowdowns.  When this is the case, the easiest way to increase throughput is with multiprocessing: multiple children that spread the time waiting so as the fully utilize the processing power available.
 

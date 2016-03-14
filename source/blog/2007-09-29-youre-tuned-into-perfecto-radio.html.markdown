@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: You're tuned into Perfecto Radio, New York City, Miami, Los Angeles
 mt_id: 148
-date: 2007-09-29 21:21:27 -07:00
+date: 2007-09-29
 ---
 One of the rotating taglines in the subtitle of this website is the line that is the title of this post:
 "You're tuned into Perfecto Radio, New York City, Miami, Los Angeles"

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Gallery back up"
-date: 2006-01-14 10:27
+date: 2006-01-14
 comments: true
 categories: [Uncategorized]
 ---

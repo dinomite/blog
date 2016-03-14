@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Creating an OpenVPN Server on Ubuntu
 mt_id: 264
-date: 2010-12-01 17:16:01 -08:00
+date: 2010-12-01
 ---
  I have long used an [SSH tunnel](http://embraceubuntu.com/2006/12/08/ssh-tunnel-socks-proxy-forwarding-secure-browsing/) (put simply: `ssh -D 8000 server` + [FoxyProxy](http://getfoxyproxy.org/)) to browse the web [securely](http://codebutler.com/firesheep) from unencrypted wireless access points and other [potentially hostile networks](http://www.wallofsheep.com/).  While this is secure, it isn't all that convenient and [has inherent problems](http://sites.inka.de/bigred/devel/tcp-tcp.html).  What I really want is a proper VPN, that will seamlessly encapsulate **all** traffic from my local machine and pass it through the tunnel to be emitted by the server.  [OpenVPN](http://openvpn.net/) is one of [those things](http://www.postfix.org/) that has a reputation for being difficult to setup,so I long avoided it.  Once I decided to actually make with the go, it turned out to not be terribly difficult, though I did have to do a bit of searching to get exactly what I wanted.
 

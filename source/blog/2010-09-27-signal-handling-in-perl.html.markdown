@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Signal Handling in Perl
 mt_id: 256
-date: 2010-09-27 18:54:29 -07:00
+date: 2010-09-27
 ---
 Perl signal handling is easy.  Simply create a subroutine to handle a signal and register it as handler in the <a href="http://perldoc.perl.org/perlvar.html#%25SIG">%SIG</a> hash:
 

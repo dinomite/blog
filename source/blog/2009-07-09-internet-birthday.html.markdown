@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Internet Birthday
 mt_id: 250
-date: 2009-07-09 23:20:22 -07:00
+date: 2009-07-09
 ---
 My Internet Birthday recently passed.  What is an Internet Birthday, you ask?  Why it's the arbitrary date that I've chosen to give when a website wants to know my birthday.  You see, gentle reader, the vast majority of websites that ask for your birthday have no real reason to have it; most of the time it will simply be used for marketing.  Whether or not you really care about that relatively innocuous usage, the real danger is that a lot of legitimate, organizations such as financial institutions, hospitals, and governments, use your birthday as an identifying piece of informationâ€”as though providing such a date is a verification of the person speaking or filling out a form.
 

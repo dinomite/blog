@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anti-pull dog harnesses"
-date: 2014-01-25 18:18
+date: 2014-01-25
 comments: true
 categories:
 ---

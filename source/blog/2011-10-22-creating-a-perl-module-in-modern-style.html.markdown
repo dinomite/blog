@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Creating a Perl Module in Modern Style
 mt_id: 276
-date: 2011-10-22 09:00:00 -07:00
+date: 2011-10-22
 ---
 One of the very best things about Perl is [CPAN](https://metacpan.org/), a repository of modules to do everything from [browse the web](https://metacpan.org/module/WWW::Mechanize) to [manipulating image files](https://metacpan.org/module/Image::Magick).  CPAN provides a consistent method for installing modules ([install cpanminus](https://metacpan.org/module/App::cpanminus#Installing-to-system-perl) and then `cpanm <Module::Name>`) and the largest number of modules of all the scripting languages.  More often than not, what you are trying to do has already been done and exists as a CPAN module.  In the event you are doing something new, the best way to give back to the community and get free help is to encapsulate your work and distribute it as a module on CPAN.
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Senator Blackburn on The War in Iraq
 mt_id: 92
-date: 2007-02-15 13:30:18 -08:00
+date: 2007-02-15
 ---
 [Representative Marsha Blackburn ](http://en.wikipedia.org/wiki/Marsha_Blackburn) (R, TN) made the most blatant invocation of patriotism as a scare tactic that I've ever heard in the debate over the non-binding resolution to condemn President Bush's troop surge.
 

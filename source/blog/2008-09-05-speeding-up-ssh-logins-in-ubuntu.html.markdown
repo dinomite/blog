@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Speeding up SSH Logins in Ubuntu
 mt_id: 218
-date: 2008-09-05 10:23:05 -07:00
+date: 2008-09-05
 ---
 After getting access to some new machines, I noticed that SSHing too them was excruciatingly slow, taking 5-10 seconds to ask for a password and no faster using keys.  I pulled open the global SSH config file, `/etc/ssh/ssh_config` on my Ubuntu machine and found a couple of [GSSAPI](http://en.wikipedia.org/wiki/Generic_Security_Services_Application_Program_Interface) things that were enabled by default:
 

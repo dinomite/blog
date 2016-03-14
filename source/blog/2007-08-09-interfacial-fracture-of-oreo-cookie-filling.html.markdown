@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Interfacial Fracture of Oreo Cookie Filling
 mt_id: 134
-date: 2007-08-09 06:00:05 -07:00
+date: 2007-08-09
 ---
 While reading the [Wikipeidia](http://en.wikipedia.org) page on [adhesive](http://en.wikipedia.org/wiki/Adhesive) I came across this nugget of wisdom on food decomposition:
 

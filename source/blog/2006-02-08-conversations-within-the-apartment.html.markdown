@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Conversations within the apartment
 mt_id: 43
-date: 2006-02-08 15:20:56 -08:00
+date: 2006-02-08
 ---
 My roomate and I have conversations in the apartment and rather than showing each other what we're looking at we usually just send links.  This produces interesting chat logs:
 

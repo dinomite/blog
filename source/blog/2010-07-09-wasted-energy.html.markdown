@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Wasted Energy
 mt_id: 259
-date: 2010-07-09 22:52:48 -07:00
+date: 2010-07-09
 ---
 The leaking [MC252](http://en.wikipedia.org/wiki/Macondo_Prospect) oil well is releasing an incredible amount of hydrocarbonsâ€”estimates have moved upwards from BP's ludicrously low 5,000 barrels per day all the way up to 100,000 bbl/day.  Beyond environmental effects of this released material, the amount of potential energy held in the hydrocarbons that are going uncaptured is staggering.
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Code Golf: Grid Computing"
 mt_id: 171
-date: 2008-01-15 09:58:52 -08:00
+date: 2008-01-15
 ---
 [A new puzzle](http://codegolf.com/grid-computing) went up on [Code Golf](http://codegolf.com) a few weeks ago and I finally got some time to sit down and hack on it, so here's another annotated instalment of my pruning process.  I haven't gotten anywhere near the smallest solutions which are half of my 109 characters.  See the action below, but don't look if you don't want hints! 
 

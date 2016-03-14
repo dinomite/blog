@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: BVD Skidmark's First 24 Hours of LeMons
 mt_id: 257
-date: 2010-05-11 21:01:49 -07:00
+date: 2010-05-11
 ---
 This past weekend, [Team BVD Skidmark](http://twitter.com/bvdskidmark) participated in its first 24 Hours of LeMons, the 2010 [Goin' For Broken](http://www.24hoursoflemons.com/reno10/) at [Thunderhill Raceway](http://www.trackpedia.com/wiki/Thunderhill_Park_Raceway) outside Willows, CA.  The team consisted of myself, two folks from [Genius.com](http://genius.com), and three guys that were part of [CSH](http://www.csh.rit.edu).  In the end, only 5 of us drove the car at the race, because one of our team was quite sick in the lead up to the race.
 

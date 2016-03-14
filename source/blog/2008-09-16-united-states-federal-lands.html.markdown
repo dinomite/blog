@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: United States Federal Lands
 mt_id: 219
-date: 2008-09-16 20:27:11 -07:00
+date: 2008-09-16
 ---
 [{% img right http://farm3.static.flickr.com/2199/2238940368_6ed860e04d.jpg 329 500 %}](http://flickr.com/photos/zsafwan/2238940368/)
 

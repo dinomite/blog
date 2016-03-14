@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Smart Bookmarks
 mt_id: 194
-date: 2008-03-12 22:15:46 -07:00
+date: 2008-03-12
 ---
 [Jeff Atwood of Coding Horror](http://www.codinghorror.com/blog/) made a very good point recently about [browser shortcuts](http://www.codinghorror.com/blog/archives/001037.html) that make browsing the web quicker because they reduce your dependence upon the mouse.  If you have any semblance of [RSI](http://en.wikipedia.org/wiki/Repetitive_strain_injury) caused by mouse usage, like mine is, then learning to maximize use of the keyboard in place of the mouse is paramount.  Following on this I will share a number of [smart bookmarks](http://en.wikipedia.org/wiki/Smart_bookmark) that I have found to be indispensible since I started using them way back when [Galeon](http://galeon.sourceforge.net/Main) was my browser of choice and Firefox nÃ©e Phoenix wasn't even on the drawing board.
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: What is CrossFit?
 mt_id: 244
-date: 2009-04-17 00:15:24 -07:00
+date: 2009-04-17
 ---
 Distilled down to the simplest terms, <a href="http://crossfit.com">CrossFit</a> workouts are about <strong>intensity, variability, and functionality</strong>.
 

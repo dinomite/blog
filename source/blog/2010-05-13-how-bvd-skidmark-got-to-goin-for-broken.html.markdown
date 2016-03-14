@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: How BVD Skidmark Got to Goin' For Broken
 mt_id: 258
-date: 2010-05-13 09:22:08 -07:00
+date: 2010-05-13
 ---
 Goin' for Broken was the first [24 Hours of LeMons](http://www.24hoursoflemons.com/) event for Team BVD Skidmark.  None of us had ever done LeMons before, and only a few of my teammates had even been on a racetrack previously.
 

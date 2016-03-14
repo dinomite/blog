@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Atheism and Society
 mt_id: 254
-date: 2010-02-28 17:57:42 -08:00
+date: 2010-02-28
 ---
 Phil Zuckerman, a [sociology professor](http://www.pitzer.edu/academics/faculty/zuckerman/) at [Pitzer College](http://www.pitzer.edu) and author of [Society Without God](http://www.amazon.com/Society-without-God-Religious-Contentment/dp/0814797148), an analysis of religiosity and its effects on a society.  Zuckermand gave a talk at the annual [Freedom From Religion Foundation](http://ffrf.org) convention in 2009, highlighting many of the important statistics he analyzed for the book, which I will paraphrase below, using the section headings from his speech.  As Zuckerman himself says, these are merely correlationsâ€”his prime aim towards Americans is to make clear that a lack of religion does not hinder a society.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wunderground with the LaCrosse C84612"
-date: 2014-04-04 13:24:51 -0400
+date: 2014-04-04
 comments: true
 categories: 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Making 1080p Timelapses with Lightroom"
-date: 2014-02-13 12:51:59 -0500
+date: 2014-02-13
 comments: true
 categories: 
 ---

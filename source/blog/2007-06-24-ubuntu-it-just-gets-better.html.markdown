@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Ubuntu: It Just Gets Better"
 mt_id: 121
-date: 2007-06-24 13:23:30 -07:00
+date: 2007-06-24
 ---
 Everyone has used Windows and at some point in time has tried to open up a file for which they didn't have a reader installed and got that dialog that offers to find a suitable program to view the file.  This dialog is worthless and has never lead anyone to finding the program that they need.
 

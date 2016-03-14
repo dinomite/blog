@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: SSH Tunnels and Bouncing
 mt_id: 234
-date: 2009-01-18 13:51:19 -08:00
+date: 2009-01-18
 ---
 I have a workstation at my office, drewble, that has a non-routable IP address.  Our network is setup such that, even from the VPN, I can't access that machine directly â€” I have to go through one of our dev servers to get to it.  Obviously, having to hop from one machine to another is a bit cumbersome, but as with many thing, this can be alleviated with some simple Unix magic.  A simple alias in my `.bashrc` makes the bouncing simple:
 <pre>

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Linksys WUSB54G in Ubuntu
 mt_id: 141
-date: 2007-09-01 14:50:04 -07:00
+date: 2007-09-01
 ---
 Since we're going all-wireless in my new house, I had to setup my Ubuntu machine with a wireless card.  All of the slots on the computer are filled, so I grabbed a Linksys WUSB54G USB (hence the model number) adapter.  Installing it required some terminal work, unusual for Ubuntu.  [This thread](http://ubuntuforums.org/showthread.php?t=478558) gives a somewhat cryptic outline of the steps required to get the card working and following them requires a bit of Linux experience.  For the unexperienced, read on.
 

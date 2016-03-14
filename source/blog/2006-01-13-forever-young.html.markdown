@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Forever Young"
-date: 2006-01-13 23:07
+date: 2006-01-13
 comments: true
 categories: []
 ---

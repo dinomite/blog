@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Homemade Carbonator
 mt_id: 150
-date: 2007-10-11 06:58:49 -07:00
+date: 2007-10-11
 ---
 <a href='http://dinomite.net/wp-content/uploads/2007/10/carbonator.jpg' title='Carbonator' class='right'><img src='http://dinomite.net/wp-content/uploads/2007/10/carbonator-thumb.jpg' alt='Carbonator thumbnail' /></a>
 After reading [this instructable](http://www.instructables.com/id/EKWAN4FF44XY58J/?ALLSTEPS) I was very excited because I've recently started drinking a lot of seltzer water and I felt silly paying for something so simple.  I collected parts from eBay and some online distributors as follows:

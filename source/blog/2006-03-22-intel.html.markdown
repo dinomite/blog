@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Intel"
-date: 2006-03-22 13:05
+date: 2006-03-22
 comments: true
 categories: [Computers]
 ---

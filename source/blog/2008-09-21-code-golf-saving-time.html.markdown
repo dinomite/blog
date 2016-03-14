@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Code Golf: Saving Time"
 mt_id: 222
-date: 2008-09-21 21:57:55 -07:00
+date: 2008-09-21
 ---
 After a new challenge, [Saving Time](http://codegolf.com/saving-time) was posted a few weeks ago, I'm finally getting to another round of [Code Golf](http://codegolf.com/).  As usual, my preferred language is Perl; don't read below if you don't want hints! 
 

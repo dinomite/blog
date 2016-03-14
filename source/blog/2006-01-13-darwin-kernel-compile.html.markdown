@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Darwin Kernel Compile"
-date: 2006-01-13 22:37
+date: 2006-01-13
 comments: true
 categories: [Linux]
 ---

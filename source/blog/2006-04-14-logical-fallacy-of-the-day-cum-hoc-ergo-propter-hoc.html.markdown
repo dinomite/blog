@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Logical Fallacy of the Day: cum hoc ergo propter hoc"
 mt_id: 64
-date: 2006-04-14 22:04:35 -07:00
+date: 2006-04-14
 ---
 One of the most oft encountered logical fallacies, particularly when quoting the outcome of studies or statistics, is that of confusing correlation of variables with causation; [**cum hoc ergo propter hoc**](http://en.wikipedia.org/wiki/Correlation_implies_causation_%28logical_fallacy%29) (latin, *with this, therefore, because of this*).  This fallacy is the root of irrational beliefs, fears and biases in otherwise intelligent and informed people.
 

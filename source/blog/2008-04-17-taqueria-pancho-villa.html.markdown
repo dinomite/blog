@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Taqueria Pancho Villa
 mt_id: 202
-date: 2008-04-17 15:16:39 -07:00
+date: 2008-04-17
 ---
 <a href='http://dinomite.net/wp-content/uploads/pancho-villa.jpg' title='Taqueria Pancho Villa'><img src='http://dinomite.net/wp-content/uploads/pancho-villa.jpg' alt='Taqueria Pancho Villa' class='right'/></a>
 

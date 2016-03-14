@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Day 2: Austria"
-date: 2007-07-31 06:47
+date: 2007-07-31
 comments: true
 categories: []
 ---

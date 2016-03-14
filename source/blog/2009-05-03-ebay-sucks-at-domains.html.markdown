@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: eBay Sucks at Domains
 mt_id: 246
-date: 2009-05-03 17:58:22 -07:00
+date: 2009-05-03
 ---
 If you go to [http://ebay.com](http://ebay.com) you will briefly see a naked text page with the following text, broken sentence structure and all:
 

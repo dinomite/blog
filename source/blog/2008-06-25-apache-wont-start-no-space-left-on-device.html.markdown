@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Apache Won't Start: No space left on device"
 mt_id: 213
-date: 2008-06-25 12:10:03 -07:00
+date: 2008-06-25
 ---
 I'm doing some development involving Apache handlers which involves lots of restarting it and occasionally Apache shutting down uncleanly.  After numerous restarts, the webserver refused to start printing the following in the error log:
 

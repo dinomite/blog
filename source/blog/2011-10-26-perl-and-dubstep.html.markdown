@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Perl and Dubstep
 mt_id: 277
-date: 2011-10-26 08:30:00 -07:00
+date: 2011-10-26
 ---
 In the past year, I have come to quite like [dubstep](http://en.wikipedia.org/wiki/Dubstep), a burgeoning electronic music genre.  Perhaps [this](http://www.youtube.com/watch?v=LXO-jKksQkM) is a more interesting introduction than an article.  Dubstep's current phase reminds me of generalized techno (mostly house & dance) during the mid-90's--a huge variety of styles, many small artists, much of it distributed through non-traditional channels.  In the late 90's the distribution was via early filesharing networks, most notably Napster.  For Dubstep, [YouTube](http://www.youtube.com/results?search_type=&search_query=dubstep%20remix&aq=f), [Mixcloud](http://www.mixcloud.com/dubstep/), and [Soundcloud](http://www.mixcloud.com/dubstep/) seem to be the preferred ways of getting new tracks out.
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: On the BMW M3
 mt_id: 62
-date: 2006-04-22 07:51:57 -07:00
+date: 2006-04-22
 ---
 *I drove a friends auto once and a cop pulled me over and gave me a ticket for improper equipment when he saw it was an auto.*
 -Aldo

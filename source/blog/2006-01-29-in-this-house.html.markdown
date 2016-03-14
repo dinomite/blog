@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "In this house"
-date: 2006-01-29 21:25
+date: 2006-01-29
 comments: true
 categories: []
 ---

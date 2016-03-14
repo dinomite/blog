@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Synchronizing an iTunes Library Between Two Computers
 mt_id: 262
-date: 2010-10-26 14:14:03 -07:00
+date: 2010-10-26
 ---
 Like many folks, I have a desktop that I use for most of my computing, and a laptop that I use while travelling, at a coffee shop, or perhaps while <a href="http://www.suntimes.com/technology/ihnatko/2745228,ihnatko-multitasking-twitter-internet-092510.article">watching tv</a>.  The other thing I have is a lot of music, all nicely rated and organized in iTunes. The problem is that new music I get goes onto my desktop, but I would like to have the exact same stuff on my laptop.  Enter <a href="http://github.com/dinomite/iTunes-Sync">iTunes-Sync</a>, a simple script that I wrote to synchronize the iTunes library file and all of the content (music, etc.) that it depends upon between the two machines.  
 

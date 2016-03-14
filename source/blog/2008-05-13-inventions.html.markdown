@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Inventions
 mt_id: 206
-date: 2008-05-13 19:06:43 -07:00
+date: 2008-05-13
 ---
 If I had this kind of cash, I would be of the same opinion:
 

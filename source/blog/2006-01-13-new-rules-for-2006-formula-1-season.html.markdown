@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "New Rules for 2006 Formula 1 Season"
-date: 2006-01-13 19:16
+date: 2006-01-13
 comments: true
 categories: []
 ---

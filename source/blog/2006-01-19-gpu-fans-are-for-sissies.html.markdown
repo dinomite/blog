@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "GPU Fans are for Sissies"
-date: 2006-01-19 19:54
+date: 2006-01-19
 comments: true
 categories: [Computers]
 ---

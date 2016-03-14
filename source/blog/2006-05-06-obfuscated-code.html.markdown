@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Obfuscated code
 mt_id: 67
-date: 2006-05-06 10:27:59 -07:00
+date: 2006-05-06
 ---
 I'm doing a project on MD5 collisions for my parallel computing class and, like all cryptography, the code involves a lot of hex numbers (in standard notation, 0xf00d, 0xbeef, etc.) which naturaly makes parts of the code difficult to read.  That's simply the nature of [the algorithm](http://en.wikipedia.org/wiki/MD5#Algorithm).  Some programmers (often just mathematicians) insist on making the code even more illedgible with things like this:
 

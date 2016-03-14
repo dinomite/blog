@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Introduction to Genres of Electronic Music through Remixes
 mt_id: 108
-date: 2007-04-15 06:09:55 -07:00
+date: 2007-04-15
 ---
 Undoubtedly, the most comprehensive map to electronic music is [Ishkur's Guide](http://www.di.fm/edmguide/edmguide.html) which covers every genre, even reaching out to Rap, much of which contains electronic elements.  Ishkur's Guide is certainly worth perusing if you're interested in electronic music, but is a bit cumbersome for someone simply looking for an overview.  The best way to get a quick understanding of the different genres within electronic music is to hear the same song presented through different interpretations.  Madonna's [<em>Like a Prayer</em>](http://en.wikipedia.org/wiki/Like_a_Prayer_%28song%29) fits this bill nicely, as it has been remixed by numerous artists in a myriad of styles.
 

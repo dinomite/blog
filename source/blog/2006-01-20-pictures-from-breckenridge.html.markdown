@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Pictures from Breckenridge"
-date: 2006-01-20 14:56
+date: 2006-01-20
 comments: true
 categories: []
 ---

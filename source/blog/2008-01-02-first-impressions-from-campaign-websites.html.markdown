@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: First Impressions from Campaign Websites
 mt_id: 174
-date: 2008-01-02 07:27:53 -08:00
+date: 2008-01-02
 ---
 Ron Paul is an internet celebrity in the realm of campaign fund raising and for good reason: his campaign has garnered $19.5 million in donations in the fourth quarter, $6 million of that on the December 16th anniversary of the [Boston Tea Party](http://en.wikipedia.org/wiki/Boston_Tea_Party).  The news media never fails to mention his internet popularity and the fact that the majority of his donations stem from the tubes that run the new world.  When I went to check out Ron Paul's website and that of some other candidates, I was intrigued.  Users who go to the [Super Libertarian's internet presence](http://www.ronpaul2008.com) are presented with a clean and informative site:
 

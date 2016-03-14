@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: United States Personal Savings Rate
 mt_id: 237
-date: 2009-03-04 22:50:21 -08:00
+date: 2009-03-04
 ---
 Americans aren't good at saving money.  The average amount of disposable income—income less taxes, not to be confused with [discretionary income](http://en.wikipedia.org/wiki/Disposable_income)—saved has dropped from 11% in the 1980s to 1% before the start of the current recession.  A graph is appropriate here:
 

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Using The Shell Right
 mt_id: 251
-date: 2009-12-25 13:03:14 -08:00
+date: 2009-12-25
 ---
 The most powerful part of Unix/Linux/BSD is the command line.  In stock trim, the Unix shells are all very effective, but your time can be more effective by customizing the shell.  I use `bash`, so I know that these things work in that shell, but they ought to be easily transferred to others as well.
 

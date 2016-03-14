@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Paleo Egg Muffins
 mt_id: 269
-date: 2011-03-07 17:18:45 -08:00
+date: 2011-03-07
 ---
 There are a [number](http://nomnompaleo.com/post/3397688384/curried-beef-broccoli-slaw-mushroom-frittata) of [recipes](http://www.norcalsc.com/index.php/post/egg_cupcakes_to_go/) for [paleo](http://everydaypaleo.com/2010/03/24/egg-cupcakes/) [muffins](http://paleoblocks.blogspot.com/2010/08/breakfast-muffins.html), which are a great way to get fast [paleo](http://en.wikipedia.org/wiki/Paleolithic_diet) food in the morning.  As I usually do with cooking, I created my own recipe from the ones I found online.  For 24 muffins, I assembled:
 

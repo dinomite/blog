@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Time Machine for Linux
 mt_id: 159
-date: 2007-11-15 07:22:27 -08:00
+date: 2007-11-15
 ---
 Since Apple's recent release of Leopard, which comes with the wonderful backup solution <em>Time Machine</em>, I've seen more than a few articles explaining how those with Linux/Unix machines can create there own incremental backups using `rsync`.  This is great and, short of hard-linked directories, exactly like Apple's <em>Time Machine</em> backend.  Furthermore, this has always been possible on systems with `rsync` available and filesystems that support hardlinks.  I've been doing incremental backups for years but, unlike all of the recent articles in question, I didn't roll my own solution: I use 'rsnapshot' to do all of the hard work for me.
 

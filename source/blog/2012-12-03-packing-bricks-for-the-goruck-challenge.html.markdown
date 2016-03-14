@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Packing Bricks for the GORUCK Challenge"
-date: 2012-12-06 08:34
+date: 2012-12-03
 comments: true
 categories: 
 ---

@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Rafter Pull-Up Bar
 mt_id: 275
-date: 2011-05-22 21:57:52 -07:00
+date: 2011-05-22
 ---
 I quite enjoy exercising and, ever since I did parkour, I've really liked body weight movements. I don't do much in the way of parkour any more, but I do CrossFit [religiously](http://www.flickr.com/photos/dinomite/5722067913/in/photostream), which features a *lot* of pull-ups.  I've got a [doorway pull-up bar](http://www.amazon.com/Iron-Total-Upper-Body-Workout/dp/B001EJMS6K/ref=sr_1_7) which is superb for just getting going in the morning; since they're only $25, I think everyone should have (and use) one.  While having a pull-up bar inside the house is great, I do most of my real workouts in my garage--with easy access to running (the street), box jumps (wall in my back yard), and a barbell, I can do many different [WODs](http://www.crossfit.com/cf-info/faq.html#General0).  For WODs that involve pull-ups, I've been doing them on the rafters in the garage.  While this works, the rafters are a bit too high to get to easily and they *really* strain my grip.  I'm all for the workout being difficult, but I don't always want it to be training for climbing.  To that end, I built a pull-up bar this weekend.
 <a href="http://www.flickr.com/photos/dinomite/5749073468/in/photostream"><img alt="pull-up bar" src="http://farm3.static.flickr.com/2702/5749073468_34876074a9.jpg" width="500" height="164" class="mt-image-center" /></a>

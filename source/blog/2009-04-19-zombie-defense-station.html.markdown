@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Zombie Defense Station
 mt_id: 245
-date: 2009-04-19 09:48:53 -07:00
+date: 2009-04-19
 ---
 <a class="tt-flickr tt-flickr-Medium" href="http://www.flickr.com/photos/dinomite/3455135080/in/set-72157616252174270/"><img class="alignright" src="http://farm4.static.flickr.com/3319/3455135080_1a853a6011.jpg" alt="Completed Zombie Defense Station" width="500" height="233" /></a>
 

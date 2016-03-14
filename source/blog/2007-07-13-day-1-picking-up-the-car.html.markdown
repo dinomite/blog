@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Day 1: Picking Up the Car"
 mt_id: 125
-date: 2007-07-13 08:34:10 -07:00
+date: 2007-07-13
 ---
 After my mom had decided that her new car would be a BMW 535i, I proposed to my parents that they might like to check out BMW's European Delivery program.  Through ED, you work with a US dealer to buy the car and get a 7% price break having to do with taxes and legal mumbo jumbo; it works out to be a good way to subsidize a vacation to Europe.  My parents asked if I'd be interested in coming along and so we planned a trip centered, in my mind, around the Formula 1 race in Magny-Cours and visiting the Nurburgring.
 

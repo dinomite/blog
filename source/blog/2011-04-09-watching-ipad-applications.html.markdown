@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Watching iPad Applications
 mt_id: 271
-date: 2011-04-09 09:00:00 -07:00
+date: 2011-04-09
 ---
 Shortly after the release of [The Daily](http://www.thedaily.com), [Andy Baio](http://waxy.org) created [The Daily: Indexed](http://thedailyindexed.tumblr.com) and, more importantly, described how he created that index in [a blog post](http://waxy.org/2011/02/how_i_indexed_the_daily/).  The crux of his reverse engineering of The Daily app was [Charles](http://www.charlesproxy.com), which he describes how to use in the aforementioned blog post.  Since reading that post, I've wanted to explore a number of applications on my iPad and iPhone to see what they're really doing when they cause the network indicator to spin.
 

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "X-Brace install"
-date: 2006-01-14 23:49
+date: 2006-01-14
 comments: true
 categories: [Cars]
 ---

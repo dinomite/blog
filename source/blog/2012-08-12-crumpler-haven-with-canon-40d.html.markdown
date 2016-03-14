@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Crumpler Haven With Canon 40D"
-date: 2012-08-12 16:43
+date: 2012-08-12
 comments: true
 categories: 
 ---

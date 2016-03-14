@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "Fry"
-date: 2006-01-13 23:49
+date: 2006-01-13
 comments: true
 categories: [Uncategorized]
 ---

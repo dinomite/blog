@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: Writing your own Perl modules
 mt_id: 104
-date: 2007-03-13 14:33:35 -07:00
+date: 2007-03-13
 ---
 Making your own Perl modules is actually really easy, only involving a few special alterations to a script and an environment variable to make them easy to utilize.  To make Perl modules, you first need to understand Object Oriented Perl, so if that's new to you, check out [Tom's object-oriented Perl Tutorial](http://search.cpan.org/dist/perl/pod/perltoot.pod).  Onward.
 
