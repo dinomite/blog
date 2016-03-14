@@ -1,0 +1,11 @@
+---
+layout: post
+comments: true
+title: "Fry"
+date: 2006-01-13 23:49
+comments: true
+categories: [Uncategorized]
+---
+Just about done configuring wordpress.  Here's a picture of Fry:
+
+<img src='/wp-content/uploads/fry.jpg' alt='Fry' />
