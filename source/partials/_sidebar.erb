@@ -1,4 +1,4 @@
-<right-column class="right-column">
+<sidebar class="sidebar">
   <ul>
     <li><h5 class="heading">See Also</h5></li>
     <li>
@@ -20,7 +20,7 @@
         <% blog.articles[0...10].each do |article| %>
             <li>
               <%= link_to article.title, article %>
-              <span><%= article.date.strftime('%b %e') %></span>
+              <div class="time"><%= article.date.strftime('%b %e') %></div>
             </li>
         <% end %>
       </ol>
@@ -37,4 +37,4 @@
       </ol>
     </li>
   </ul>
-</right-column>
+</sidebar>
