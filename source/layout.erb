@@ -13,9 +13,13 @@
   <body>
 
     <div id="main" role="main">
-      <%= partial "partials/nav" %>
-      <%= yield %>
-      <%= partial "partials/footer" %>
+      <%= partial 'partials/nav' %>
+
+      <div class="left-column">
+        <%= yield %>
+      </div>
+
+      <%= partial 'partials/right-column' %>
     </div>
 
   </body>

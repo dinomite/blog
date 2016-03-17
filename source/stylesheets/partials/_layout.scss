@@ -21,13 +21,12 @@ ol {
 }
 
 .left-column {
-  @include span-columns(7 of 12);
-}
-
-.middle-column {
-  @include span-columns(3 of 12);
+  @include span-columns(8 of 12);
 }
 
 .right-column {
-  @include span-columns(2 of 12);
+  border-left: 1px solid $base-border-color;
+  @include span-columns(4 of 12);
+  margin-top: 75px;
+  padding-left: 10px;
 }
