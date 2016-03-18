@@ -2,6 +2,13 @@
 set -e -x
 
 cd build
+
+if [ ! -d ".git" ]; then
+    git clone git@github.com:dinomite/dinomite.github.io.git
+    mv dinomite.github.io/.git/ .
+    rm -rf dinomite.github.io
+fi
+
 git add .
 git commit -m "`date`"
-git push gh-pages master
+git push
