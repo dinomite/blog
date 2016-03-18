@@ -51,5 +51,5 @@ end
 
 # Reload the browser automatically whenever files change
 configure :development do
-  activate :livereload, apply_css_live: true
+  activate :livereload
 end
