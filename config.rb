@@ -66,3 +66,10 @@ configure :build do
   # Minify Javascript on build
   activate :minify_javascript
 end
+
+after_build do |builder|
+  src = File.join(config[:source], 'CNAME')
+  dst = File.join(config[:build_dir], 'CNAME')
+  builder.thor.source_paths << File.dirname(__FILE__)
+  builder.thor.copy_file(src, dst)
+end
