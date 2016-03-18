@@ -4,7 +4,7 @@ page '/*.txt', layout: false
 
 activate :blog do |blog|
   # This will add a prefix to all links, template references and source paths
-  blog.prefix = "blog"
+  blog.prefix = 'blog'
 
   # blog.permalink = "{year}/{month}/{day}/{title}.html"
   # Matcher for blog source files
@@ -18,6 +18,8 @@ activate :blog do |blog|
   # blog.day_link = "{year}/{month}/{day}.html"
   # blog.default_extension = ".markdown"
 
+  # TODO template for article command (https://github.com/middleman/middleman/issues/1708)
+  # blog.new_article_template = ''
   blog.tag_template = 'tag.html'
   blog.calendar_template = 'calendar.html'
 
