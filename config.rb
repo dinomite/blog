@@ -32,6 +32,7 @@ end
 page '/feed.xml', layout: false
 
 activate :directory_indexes
+activate :syntax, :line_numbers => true
 
 # Build-specific configuration
 configure :build do
