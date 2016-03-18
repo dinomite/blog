@@ -118,7 +118,7 @@ as cadre are strict about littering, rightly so.
 
 <a href="https://www.flickr.com/photos/dinomite/9159389132/"><img src="https://farm6.staticflickr.com/5540/9159389132_4c88fea201_c.jpg"/></a>
 
-<a href="https://www.flickr.com/photos/dinomite/9159343672/"><img class="image-right" src="https://farm4.staticflickr.com/3667/9159343672_fa6d911781.jpg"/></a>
+<a href="https://www.flickr.com/photos/dinomite/9159343672/"><img class=right src="https://farm4.staticflickr.com/3667/9159343672_fa6d911781.jpg"/></a>
 
 Do something to your ruck so that you can differentiate it from everyone elses.
 All cadre are different, but you'll end up taking your ruck off and passing it

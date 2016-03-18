@@ -3,6 +3,8 @@ title: Winter Tech Forum is The Finest
 date: 2016-03-07
 tags: Tech
 ---
+![Snowshoeing](https://farm2.staticflickr.com/1621/25017324783_93c29cc2ed_z_d.jpg)
+
 This past week I was in [Crested Butte, Colorado](https://en.wikipedia.org/wiki/Crested_Butte,_Colorado) at the second annual [Winter Tech Forum](http://www.mindviewinc.com/Conferences/JavaPosseRoundup/). WTF is an [Open Spaces conference](http://www.mindviewinc.com/Conferences/OpenSpaces.html), where there is no pre-planning, aside from organizing a place for the conference to happen. Attendees begin coming up with the schedule of discussions on the first day of the conference, and continue throughout as ideas flow.
 
 See also: [Dianne Marsh’s much more comprehensive summary](http://diannemarsh.com/conference-summary-winter-tech-forum-2016/) and [Chris Phelps' writeup](http://chrisphelps.github.io/conferences/2016/03/13/Winter-Tech-Forum/).
