@@ -51,13 +51,6 @@ configure :development do
   activate :livereload, apply_css_live: true
 end
 
-# Methods defined in the helpers block are available in templates
-# helpers do
-#   def some_helper
-#     "Helping"
-#   end
-# end
-
 # Build-specific configuration
 configure :build do
   # Minify CSS on build
@@ -72,4 +65,12 @@ after_build do |builder|
   dst = File.join(config[:build_dir], 'CNAME')
   builder.thor.source_paths << File.dirname(__FILE__)
   builder.thor.copy_file(src, dst)
+end
+
+activate :deploy do |deploy|
+  deploy.deploy_method = :git
+  deploy.remote   = 'git@github.com:dinomite/dinomite.github.io.git'
+  deploy.branch   = 'master'
+  # deploy.strategy = :submodule      # commit strategy: can be :force_push or :submodule, default: :force_push
+  # deploy.commit_message = 'custom-message'      # commit message (can be empty), default: Automated commit at `timestamp` by middleman-deploy `version`
 end
