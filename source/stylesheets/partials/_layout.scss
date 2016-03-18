@@ -27,10 +27,19 @@ ol {
 .sidebar {
   border-left: 1px solid $base-border-color;
   @include span-columns(3 of 12);
-  margin-top: 75px;
+  margin-top: 60px;
   padding-left: 10px;
 }
 
 .image-right {
   float: right;
+}
+
+.article-title-date {
+  font-size: .9em;
+  fonth-weight: 80;
+  color: grey;
+  margin-top: -15px;
+  padding-bottom: 5px;
+  padding-left: 15px;
 }
