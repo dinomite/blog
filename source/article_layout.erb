@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv='X-UA-Compatible' content='IE=edge;chrome=1' />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title><%= current_article.title %> « Dinomite.net</title>
+
+  <%= stylesheet_link_tag "all" %>
+  <%= feed_tag :atom, "#{blog.options.prefix.to_s}/atom.xml", title: 'Atom Feed' %>
+</head>
+
+<body>
+<div id="main" role="main">
+  <%= partial 'partials/nav' %>
+
+  <div class="main-content">
+    <h1 class="article-title"><%= current_article.title %></h1>
+    <div class="article-title-date"><%= current_article.date.strftime('%b %e, %Y') %></div>
+    <%= yield %>
+  </div>
+
+  <%= partial 'partials/sidebar' %>
+</div>
+
+<%= partial 'partials/footer' %>
+</body>
+</html>
