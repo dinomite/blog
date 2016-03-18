@@ -37,4 +37,11 @@
       </ol>
     </li>
   </ul>
+
+  <ul>
+    <li><h5 class="heading">Posts by Year</h5></li>
+    <% (5..16).each do |year| %>
+        <li><a href="/blog/20<%= year.to_s.rjust(2, '0') %>">20<%= year.to_s.rjust(2, '0') %></a></li>
+    <% end %>
+  </ul>
 </sidebar>
