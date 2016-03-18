@@ -35,7 +35,7 @@ activate :directory_indexes
 
 activate :syntax, :line_numbers => true
 set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true
+set :markdown, fenced_code_blocks: true, smartypants: true
 
 # Build-specific configuration
 configure :build do
