@@ -6,7 +6,7 @@ tags:
 ---
 [I like dogs](https://www.youtube.com/watch?v=zH64dlgyydM) and recently got a beaglish one of my own from the [Lost Dog Foundation](http://www.lostdogrescue.org/).  While wonderful, he has the affliction of walking excitement common to hunting hounds—appropriate to his name, Scout wants to lead the way and suss out any squirrels to be found.  At only 25 pounds, he won't drag you down the street, but the constant tugging on the leash is tiring.  I've tried a number of collars & harnesses to try to combat this problem, and what follows are my opinions on them.
 
-[{% img http://farm6.staticflickr.com/5471/11892424355_bd7c2bcc67_z.jpg 'Scout being Rowdy' %}](http://www.flickr.com/photos/dinomite/11892424355/)
+[<img src='http://farm6.staticflickr.com/5471/11892424355_bd7c2bcc67_z.jpg' alt='Scout being Rowdy'>](http://www.flickr.com/photos/dinomite/11892424355/)
 
 ## [Illusion Collar](http://www.cesarsway.com/shop/Illusion-Dog-Collar-Leash-System)
 My girlfriend had been watching a lot of [Caesar Millan](http://www.cesarsway.com/) before we got our dog and we put a fair bit of stock in his methods.  Using a leash in the way that [Caesar describes](https://www.youtube.com/watch?v=vjub9dCBiv8), well up the dog's neck and close to the ears, allowed us to control Scout, but the leash wouldn't stay there, so we figured it was worth trying the oddly-named[^1] Illusion Collar to make this easier.

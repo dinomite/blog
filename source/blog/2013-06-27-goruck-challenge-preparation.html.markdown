@@ -4,7 +4,7 @@ date: 2013-06-27
 comments: true
 tags: 
 ---
-[{% img https://farm4.staticflickr.com/3713/9157378869_d05b4078ef_z.jpg %}](https://www.flickr.com/photos/dinomite/9157378869/)
+<a href="https://www.flickr.com/photos/dinomite/9157378869/"><img src="https://farm4.staticflickr.com/3713/9157378869_d05b4078ef_z.jpg"/></a>
 Photo credit: [Troy Angrignon](http://www.facebook.com/troyangrignon)
 
 I did the [GORUCK Challenge](https://www.goruck.com/events/Challenge) last
@@ -99,7 +99,7 @@ some F-Lite 230s which were what I had planed on until the day of, but I settled
 on the 195s because my feet feel better in them.  They were just fine, despite
 the weight and surfaces we were walking on.
 
-[{% img left http://www.fieggen.com/Dont_Link/FinishedSurgeonKnot1.jpg %}](http://www.fieggen.com/shoelace/surgeonknot.htm)
+<a href="http://www.fieggen.com/shoelace/surgeonknot.htm"><img src="http://www.fieggen.com/Dont_Link/FinishedSurgeonKnot1.jpg"/></a>
 
 The other thing you need to do is [tie your shoes properly](http://www.fieggen.com/shoelace/surgeonknot.htm).
 If you can slip your shoes off without untying them, they aren't tied properly.
@@ -116,9 +116,9 @@ as cadre are strict about littering, rightly so.
 
 ## Your Ruck
 
-[{% img https://farm6.staticflickr.com/5540/9159389132_4c88fea201_c.jpg %}](https://www.flickr.com/photos/dinomite/9159389132/)
+<a href="https://www.flickr.com/photos/dinomite/9159389132/"><img src="https://farm6.staticflickr.com/5540/9159389132_4c88fea201_c.jpg"/></a>
 
-[{% img right 305 500 https://farm4.staticflickr.com/3667/9159343672_fa6d911781.jpg %}](https://www.flickr.com/photos/dinomite/9159343672/)
+<a href="https://www.flickr.com/photos/dinomite/9159343672/"><img class="image-right" src="https://farm4.staticflickr.com/3667/9159343672_fa6d911781.jpg"/></a>
 
 Do something to your ruck so that you can differentiate it from everyone elses.
 All cadre are different, but you'll end up taking your ruck off and passing it

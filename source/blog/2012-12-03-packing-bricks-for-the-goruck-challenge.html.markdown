@@ -4,7 +4,7 @@ date: 2012-12-03
 comments: true
 tags: 
 ---
-[{% img right http://farm9.staticflickr.com/8486/8248913885_8828ee2a54.jpg 302 500 GORUCK GR Echo with 4 bricks & yoga block %}](http://www.flickr.com/photos/dinomite/8248913885/in/photostream/)
+<a href="http://www.flickr.com/photos/dinomite/8248913885/in/photostream/"><img class="image-right" src="http://farm9.staticflickr.com/8486/8248913885_8828ee2a54.jpg" alt="GORUCK GR Echo with 4 bricks & yoga block"/></a>
 
 I have finally signed up for a [GORUCK Challenge](https://www.goruckchallenge.com/).  The event is 6 months off, but thanks to Jason posting [Wrapping Bricks Explained](http://www.gorucknews.com/challenge/wrapping-bricks-explained/) I've been playing around with packing bricks in my rucks.
 

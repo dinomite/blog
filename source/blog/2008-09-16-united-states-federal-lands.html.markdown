@@ -3,12 +3,13 @@ comments: true
 title: United States Federal Lands
 mt_id: 219
 date: 2008-09-16
----
-[{% img right http://farm3.static.flickr.com/2199/2238940368_6ed860e04d.jpg 329 500 %}](http://flickr.com/photos/zsafwan/2238940368/)
+----------------
+<a href="http://flickr.com/photos/zsafwan/2238940368/"><img src="http://farm3.static.flickr.com/2199/2238940368_6ed860e04d.jpg" class="image-right" /></a>
 
 I gave this post a vague title because the control of [federal lands](http://en.wikipedia.org/wiki/Federal_lands), such as National Parks, National Memorials and National Forests, is a surprisingly complicated issue.  Tracts controlled by the federal government arise from disparate processes and are controlled by a number of different agencies including the National Park Service, Bureau of Land Management and the United States Forest Service.
 
 ## Agencies
+
 ### National Park Service
 The most well-known federal land management agency is the [National Park Service](http://en.wikipedia.org/wiki/National_Park_Service), housed under the [Department of the Interior](http://en.wikipedia.org/wiki/United_States_Department_of_the_Interior).  The NPS was created in 1916 to organize management of the fledgling system of parks that began with the designation of [Yellowstone National Park](http://en.wikipedia.org/wiki/Yellowstone_National_Park) in 1862.
 

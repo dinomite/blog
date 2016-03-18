@@ -9,7 +9,7 @@ I got a [La Crosse C84612](http://www.lacrossetechnology.com/c84612/) weather st
 
 The La Crosse has been a great weather station for me: easy to set up, accurate reporting, and no interaction required.  One of the features it came with that I was most excited about was internet connetivity.  The station comes with a gateway that wirelessly (900MHz, not wifi) links up with the other components of the weather station, which also link wirelessly.  Good system in theory, but it's only set up to send data to La Crosse Alerts™, a website which I can best describe as functional.
 
-[{% img https://farm8.staticflickr.com/7241/13623412293_bdc93cd82f_z.jpg [1097] [793] 'The main view of La Crosse Alerts™' %}](https://www.flickr.com/photos/dinomite/13623412293/)
+<a href="https://www.flickr.com/photos/dinomite/13623412293/"><img src="https://farm8.staticflickr.com/7241/13623412293_bdc93cd82f_z.jpg" alt='The main view of La Crosse Alerts™'/></a>
 
 Since the output of the gateway is simply data on the wire, I figured it'd be possible to capture the communication between the gateway and the La Crosse Alerts™ server.  The first step in such a journey is to look around and see what other folks have found, and what a productive step that was this time.
 
