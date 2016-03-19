@@ -19,7 +19,7 @@ Many things in the world don't respond well to only being updated on a wallclock
 
 The first problem can be ameliorated by using very long expirations and the latter by force-expiring related cache entries when issuing updates.  That last bit leaves a huge potential pitfall: forgetting to invalidate the cache when updating the value.  Another approach for keeping your cache fresh is to use a quickly-retrieved value that indicates whether the cache needs to be regenerated.
 
-In our application, user profiles show friend relationships and use that information to pull in recent comments from those friends, an expensive operation spanning many tables.  One key bit that informs how much searching we need to do is those friend relationships.  If the user has new friends we need to look at all of those new friend's recent comments and build them for display.  While checking the entire friends list is expensive, checking the latest change for a single user is quick.
+In [our](http://www.forumforall.net) application, user profiles show friend relationships and use that information to pull in recent comments from those friends, an expensive operation spanning many tables.  One key bit that informs how much searching we need to do is those friend relationships.  If the user has new friends we need to look at all of those new friend's recent comments and build them for display.  While checking the entire friends list is expensive, checking the latest change for a single user is quick.
 
 ```ruby
 class FriendsAPI
