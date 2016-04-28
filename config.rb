@@ -29,7 +29,7 @@ activate :blog do |blog|
   blog.page_link = 'page/{num}'
 end
 
-page '/feed.xml', layout: false
+page '/atom.xml', layout: false
 
 activate :directory_indexes
 
