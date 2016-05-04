@@ -1,5 +1,5 @@
 ---
-title: Reading Devise sessions in Java
+title: Reading Devise Sessions in Java
 date: 2016-05-02
 tags: Tech, Rails
 ---
