@@ -37,6 +37,10 @@ activate :syntax, :line_numbers => true
 set :markdown_engine, :redcarpet
 set :markdown, fenced_code_blocks: true, smartypants: true
 
+activate :google_analytics do |ga|
+    ga.tracking_id = 'UA-2474105-1'
+end
+
 # Build-specific configuration
 configure :build do
   # Minify CSS on build

@@ -14,6 +14,7 @@ gem 'middleman', '~> 4.1.7'
 gem 'middleman-blog', '~> 4.0.1'
 gem 'middleman-livereload'
 gem 'middleman-syntax'
+gem 'middleman-google-analytics', '~> 2.1'
 
 gem 'redcarpet', '~> 3.3', '>= 3.3.3'
 
