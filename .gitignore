@@ -11,7 +11,7 @@
 /build
 
 # Ignore cache
-/.sass-cache
+.sass-cache
 /.cache
 
 # Ignore .DS_store file
