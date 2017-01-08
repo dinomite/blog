@@ -3,20 +3,8 @@ page '/*.json', layout: false
 page '/*.txt', layout: false
 
 activate :blog do |blog|
-  # This will add a prefix to all links, template references and source paths
   blog.prefix = 'blog'
   blog.layout = 'article_layout'
-
-  # blog.permalink = "{year}/{month}/{day}/{title}.html"
-  # Matcher for blog source files
-  # blog.sources = "{year}-{month}-{day}-{title}.html"
-  # blog.taglink = "tags/{tag}.html"
-  # blog.summary_separator = /(READMORE)/
-  # blog.summary_length = 250
-  # blog.year_link = "{year}.html"
-  # blog.month_link = "{year}/{month}.html"
-  # blog.day_link = "{year}/{month}/{day}.html"
-  # blog.default_extension = ".markdown"
 
   # TODO template for article command (https://github.com/middleman/middleman/issues/1708)
   # blog.new_article_template = ''
@@ -28,8 +16,6 @@ activate :blog do |blog|
   blog.per_page = 25
   blog.page_link = 'page/{num}'
 end
-
-#page '/atom.xml', layout: false
 
 activate :directory_indexes
 
