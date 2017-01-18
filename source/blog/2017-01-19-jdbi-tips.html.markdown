@@ -1,0 +1,169 @@
+---
+title: JDBI Tips
+date: 2017-01-19 13:03 UTC
+tags: Java, Programming
+---
+
+I've been using [JDBI](http://jdbi.org/) in Java & Kotlin projects recently and have come across a few thigns that aren't entirely intuitive.  If you're having trouble with JDBI, be sure to check [the docs](http://jdbi.org/archive.html); if you don't find an answer there, the [issues on GitHub](https://github.com/jdbi/jdbi/issues) is a great place to look for more esoteric uses of the library.
+
+# Guice
+
+I have a Dropwizard app that I use with Guice via [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey).  While the [Dropwizard docs](http://www.dropwizard.io/1.0.0/docs/manual/jdbi.html) cover using JDBI, constructing instances is a bit different with d-guicey.  I use Kotlin and my module for registering DAOS looks like this:
+
+```java
+class DaoModule : DropwizardAwareModule<AppConfiguration>() {
+    override fun configure() {
+        val factory = KuorumDBIFactory()
+        val dataSourceFactory = configuration().dataSourceFactory
+        val jdbi = factory.build(environment(), dataSourceFactory, "postgresql")
+        jdbi.registerArgumentFactory(PgIntegerArrayArgFactory())
+        bind(DBI::class.java).toInstance(jdbi)
+
+        val apiKeyDao = jdbi.onDemand(ApiKeyDao::class.java)
+        bind(ApiKeyDao::class.java).toInstance(apiKeyDao)
+    }
+}
+
+class KuorumDBIFactory : DBIFactory() {
+    override fun databaseTimeZone(): Optional<TimeZone>? {
+        return Optional.of(TimeZone.getTimeZone("UTC"))
+    }
+}
+```
+
+More on the `PgIntegerArrayArgFactory` below.
+
+# Querying Enums
+
+JDBI's default binding of `enum` arguments [calls `.name()`](https://github.com/jdbi/jdbi/blob/292b089cfd4e6a6f5f41c9bd320bade1f66926da/src/main/java/org/skife/jdbi/v2/EnumArgument.java#L37) on the enum object.  I have enums that instead use the ordinal value in a numeric database column, so I need the binding to call `.ordinal()` instead.  To accomplish this, I create a special binding factory, which looks a bit nasty:
+
+```java
+@BindingAnnotation(BindStatus.StatusBinderFactory.class)
+@Retention(RetentionPolicy.RUNTIME)
+@Target({ElementType.PARAMETER})
+public @interface BindWidgetStatus {
+    class StatusBinderFactory implements BinderFactory {
+        public Binder build(Annotation annotation) {
+            return new Binder<BindStatus, Status>() {
+                public void bind(SQLStatement q, BindStatus bind, Status arg) {
+                    q.bind("status", arg.ordinal());
+                }
+            };
+        }
+    }
+}
+```
+
+The operative part is down in the deepest indentation—bind the ordinal value of the enum to whatever you will use as the placeholder string in the query.  Then, in the DAO:
+
+```java
+@RegisterMapper(WidgetMapper::class)
+interface WidgetDao {
+    @SqlQuery("SELECT * FROM widgets WHERE status = :status ")
+    fun getWidgets(@BindWidgetStatus status: Widget.Status): List<Widget>
+}
+```
+
+Be sure to use the same placeholder string as in the `BinderFactory` above (in this case `status`).
+
+# Array arguments
+
+Sometimes I want to be able to select widgets in any `Status`.  In SQL, I would use an `IN` clause: `…WHERE status IN (0, 1, 2)` and, with a bit more setup JDBI can do the same.  First, the enum in question:
+
+```java
+data class Widget(val id: Int, val status: Status) {
+    enum class Status {
+        UNREAD, READ, ALL;
+
+        fun queryValue(): Array<Int> {
+            if (this == ALL) {
+                return arrayOf(UNREAD.ordinal, READ.ordinal)
+            }
+
+            return arrayOf(this.ordinal)
+        }
+    }
+}
+```
+
+And change the `Binder` to use the `queryValue()` method:
+
+```java
+@BindingAnnotation(BindStatus.StatusBinderFactory.class)
+@Retention(RetentionPolicy.RUNTIME)
+@Target({ElementType.PARAMETER})
+public @interface BindWidgetStatus {
+    class StatusBinderFactory implements BinderFactory {
+        public Binder build(Annotation annotation) {
+            return new Binder<BindStatus, Status>() {
+                public void bind(SQLStatement q, BindStatus bind, Status arg) {
+                    q.bind("status", SqlArray.arrayOf(Integer.class, arg.queryValue()));
+                }
+            };
+        }
+    }
+}
+```
+
+That `SqlArray` is a just a POJO for holding the things to be bound:
+
+```java
+class SqlArray<T> {
+    private final Object[] elements;
+    private final Class<T> type;
+
+    private SqlArray(Class<T> type, Collection<T> elements) {
+        this.elements = Iterables.toArray(elements, Object.class);
+        this.type = type;
+    }
+
+    @SafeVarargs
+    static <T> SqlArray<T> arrayOf(Class<T> type, T... elements) {
+        return new SqlArray<>(type, asList(elements));
+    }
+
+    Object[] getElements() {
+        return elements;
+    }
+
+    Class<T> getType() {
+        return type;
+    }
+}
+```
+
+Finally, also in Java, an `ArgumentFactory` to bind the SqlArray values:
+
+```java
+public class PgIntegerArrayArgFactory implements ArgumentFactory<SqlArray<Integer>> {
+    public boolean accepts(Class<?> type, Object value, StatementContext ctx) {
+        return value instanceof SqlArray
+            && ((SqlArray)value).getType().isAssignableFrom(Integer.class);
+    }
+
+    public Argument build(Class<?> type,
+                          final SqlArray<Integer> value,
+                          StatementContext ctx) {
+        return (position, statement, ctx1) -> {
+            Array ary = ctx1.getConnection()
+                            .createArrayOf("integer", value.getElements());
+            statement.setArray(position, ary);
+        };
+    }
+}
+```
+
+This is described more thoroughly on [Brian McCallister's blog](http://skife.org/jdbi/java/2011/12/21/jdbi_in_clauses.html).  Note that he calls the above `ArgumentFactory` a toy, since it only binds one type (Integers).  Since I only use integer array arguments so far, I've left it as such.
+
+# Optional arguments
+
+Sometimes you want to have optional arguments in a DAO method, like an ID to start selecting records at.
+
+```java
+
+    @SqlQuery("SELECT * FROM widgets " +
+              "WHERE (cast(:start_id AS INT) IS NULL OR c1.id <= :start_id)")
+    fun widgets(@Bind("start_id") startId: Int?): List<Widget>
+```
+
+Since this is written in Kotlin, you can see that startId is a nullable argument.  If it's null the SQL query will ignore it (the where clause is always true).  More details [here](https://github.com/jdbi/jdbi/issues/381).
