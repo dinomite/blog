@@ -1,6 +1,6 @@
 ---
 title: JDBI Tips
-date: 2017-01-19 13:03 UTC
+date: 2017-01-19
 tags: Java, Programming
 ---
 
