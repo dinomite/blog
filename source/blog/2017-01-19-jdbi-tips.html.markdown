@@ -4,16 +4,16 @@ date: 2017-01-19 13:03 UTC
 tags: Java, Programming
 ---
 
-I've been using [JDBI](http://jdbi.org/) in Java & Kotlin projects recently and have come across a few thigns that aren't entirely intuitive.  If you're having trouble with JDBI, be sure to check [the docs](http://jdbi.org/archive.html); if you don't find an answer there, the [issues on GitHub](https://github.com/jdbi/jdbi/issues) is a great place to look for more esoteric uses of the library.
+I've been using [JDBI](http://jdbi.org/) in Java & [Kotlin](https://kotlinlang.org/) projects recently and have come across a few things that aren't entirely intuitive.  If you're having trouble with JDBI, be sure to check [the docs](http://jdbi.org/archive.html); if you don't find an answer there, the [issues on GitHub](https://github.com/jdbi/jdbi/issues) is a great place to look for more esoteric uses of the library.
 
 # Guice
 
-I have a Dropwizard app that I use with Guice via [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey).  While the [Dropwizard docs](http://www.dropwizard.io/1.0.0/docs/manual/jdbi.html) cover using JDBI, constructing instances is a bit different with d-guicey.  I use Kotlin and my module for registering DAOS looks like this:
+I have a Dropwizard app that I use with Guice via [dropwizard-guicey](https://github.com/xvik/dropwizard-guicey).  While the [Dropwizard docs](http://www.dropwizard.io/1.0.0/docs/manual/jdbi.html) cover using JDBI, constructing instances is a bit different with dropwizard-guicey.  My (Kotlin) module for registering DAOs looks like this:
 
 ```java
 class DaoModule : DropwizardAwareModule<AppConfiguration>() {
     override fun configure() {
-        val factory = KuorumDBIFactory()
+        val factory = AppDBIFactory()
         val dataSourceFactory = configuration().dataSourceFactory
         val jdbi = factory.build(environment(), dataSourceFactory, "postgresql")
         jdbi.registerArgumentFactory(PgIntegerArrayArgFactory())
@@ -24,7 +24,7 @@ class DaoModule : DropwizardAwareModule<AppConfiguration>() {
     }
 }
 
-class KuorumDBIFactory : DBIFactory() {
+class AppDBIFactory : DBIFactory() {
     override fun databaseTimeZone(): Optional<TimeZone>? {
         return Optional.of(TimeZone.getTimeZone("UTC"))
     }
@@ -35,7 +35,7 @@ More on the `PgIntegerArrayArgFactory` below.
 
 # Querying Enums
 
-JDBI's default binding of `enum` arguments [calls `.name()`](https://github.com/jdbi/jdbi/blob/292b089cfd4e6a6f5f41c9bd320bade1f66926da/src/main/java/org/skife/jdbi/v2/EnumArgument.java#L37) on the enum object.  I have enums that instead use the ordinal value in a numeric database column, so I need the binding to call `.ordinal()` instead.  To accomplish this, I create a special binding factory, which looks a bit nasty:
+JDBI's default binding of `enum` arguments [calls `.name()`](https://github.com/jdbi/jdbi/blob/292b089cfd4e6a6f5f41c9bd320bade1f66926da/src/main/java/org/skife/jdbi/v2/EnumArgument.java#L37) on the enum object.  I have enums that instead use the ordinal value in a numeric database column, so I need the binding to call `.ordinal()` instead.  To accomplish this, I create a special binding factory, which looks a bit nasty, but it's actual action is quite straighforward:
 
 ```java
 @BindingAnnotation(BindStatus.StatusBinderFactory.class)
@@ -68,7 +68,7 @@ Be sure to use the same placeholder string as in the `BinderFactory` above (in t
 
 # Array arguments
 
-Sometimes I want to be able to select widgets in any `Status`.  In SQL, I would use an `IN` clause: `…WHERE status IN (0, 1, 2)` and, with a bit more setup JDBI can do the same.  First, the enum in question:
+Sometimes I want to be able to select widgets in any `Status`.  In SQL, I would use an `IN` clause: "`...WHERE status IN (0, 1, 2)`" and, with a bit more setup JDBI can do the same.  First, the enum in question:
 
 ```java
 data class Widget(val id: Int, val status: Status) {
@@ -157,13 +157,12 @@ This is described more thoroughly on [Brian McCallister's blog](http://skife.org
 
 # Optional arguments
 
-Sometimes you want to have optional arguments in a DAO method, like an ID to start selecting records at.
+Sometimes you want to have optional arguments in a DAO method, like an ID to start selecting records at. JDBI supports this, but in a non-intuitive way—you simply write the `@SqlQuery` to expect a possibly null value:
 
 ```java
-
     @SqlQuery("SELECT * FROM widgets " +
               "WHERE (cast(:start_id AS INT) IS NULL OR c1.id <= :start_id)")
     fun widgets(@Bind("start_id") startId: Int?): List<Widget>
 ```
 
-Since this is written in Kotlin, you can see that startId is a nullable argument.  If it's null the SQL query will ignore it (the where clause is always true).  More details [here](https://github.com/jdbi/jdbi/issues/381).
+Since this is written in Kotlin, you can see that startId is nullable.  If it is null the SQL query will ignore it (the `where` clause is always true).  More details [here](https://github.com/jdbi/jdbi/issues/381).
