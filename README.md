@@ -5,11 +5,11 @@
 # Server
 
     middleman server
-    
+
 # Build
 
     middleman build
-    
+
 # Deploy
 
     ./bin/deploy
