@@ -2,7 +2,6 @@
 title: Coding Tests
 date: 2017-07-12 12:17 UTC
 tags: Programming, Hiring
-#published: false
 ---
 Hiring for developers is tricky business for many reasons, but one of the most contentious is assessing technical ability.  Anyone who has done hiring, in particular for junior developers, has come across [candidates that couldn't write the simplest of programs](https://blog.codinghorror.com/why-cant-programmers-program/).  Thus we find ourselves in a world where technical interviews often involve whiteboard coding or coding tests.
 
@@ -28,7 +27,7 @@ Finally, as we'll get to later, any sort of coding test requires significant up-
 
 # Take-home coding tests
 
-A take-home coding test solves all of the aforementioned problems.  Candidates get to use an devlopment environment of their preference, aren't under live scrutiny, and get to work in the manner that is best for them.  For all of these reasons, I quite like take-home coding tests, but the rightly get a lot of hate from other developers for a few reasons.
+A take-home coding test solves all of the aforementioned problems.  Candidates get to use an devlopment environment of their preference, aren't under live scrutiny, and get to work in the manner that is best for them.  For all of these reasons, I quite like take-home coding tests, but they rightly get a lot of hate from other developers for a few reasons.
 
 ## Time
 
