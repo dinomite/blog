@@ -1,6 +1,6 @@
 ---
 title: Kotlin's let()
-date: 2017-07-15 15:50 UTC
+date: 2017-07-15 15:20 UTC
 tags: Programming, Kotlin
 ---
 
